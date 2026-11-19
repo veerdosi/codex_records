@@ -29,12 +29,6 @@ subprocess.run(['ffmpeg','-nostdin','-v','error','-y','-ss',str(START),'-i',str(
                 '-t',str(DURATION),'-af','afade=t=in:d=0.035,afade=t=out:st=58.4:d=0.6',
                 '-ac','2','-ar','48000','-c:a','pcm_s24le',str(PUBLIC/'music.wav')],check=True)
 
-# Quiet instrumentals leave the opening and closing text easy to take in.
-for name, start, gain in [('intro-bed',0.,.18),('outro-bed',156.78,.29)]:
- subprocess.run(['ffmpeg','-nostdin','-v','error','-y','-ss',str(start),'-i',str(SOURCE),
-                 '-t','5.5','-af',f'lowpass=f=1800,volume={gain},afade=t=in:d=0.45,afade=t=out:st=4.65:d=0.85',
-                 '-ac','2','-ar','48000','-c:a','pcm_s24le',str(PUBLIC/(name+'.wav'))],check=True)
-
 raw=subprocess.check_output(['ffmpeg','-v','error','-i',str(SOURCE),'-ac','1','-ar',str(RATE),'-f','f32le','pipe:1'])
 x=np.frombuffer(raw,dtype='<f4').copy()
 band=signal.sosfilt(signal.butter(3,[40,155],btype='bandpass',fs=RATE,output='sos'),x)
