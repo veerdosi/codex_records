@@ -34,6 +34,8 @@ Use [AGENTS.md](../../../AGENTS.md) for song locations, approved versions, and m
 
 Keep trial renders in the song’s work folder. Put the verified stereo MP3 in the release folder listed in [AGENTS.md](../../../AGENTS.md) and the editable session in `reaper/<Title>/` with linked media. Verify duration, decoding, Title, Artist, and Album before replacing an approved export. For tag-only edits, verify that the encoded audio packets match the original. Share the workspace-local result.
 
+After approval, clear superseded previews, diagnostic bus renders, and disposable render sessions. Keep the final project’s media, source recordings, MIDI, code, and useful analysis reports. Preserve older inputs that a current production script still needs.
+
 ## Local analysis tools
 
 Python environments are in `work/shared/environments/`, Beat This dependencies in `work/shared/beat_deps/`, models in `work/shared/models/`, and reusable DSP in `work/shared/dsp.py`. The REAPER MCP analysis sidecar uses this workspace’s `audio-venv` via `~/.reaper-mcp/sidecar-venv`. Update that link if the workspace moves.

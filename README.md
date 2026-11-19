@@ -33,6 +33,6 @@ node work/shared/reaper.mjs get_project_info
 
 The client uses the user-local REAPER MCP installation at `~/.local/share/reaper-mcp/`. The audio sidecar links to `work/shared/environments/audio-venv` through `~/.reaper-mcp/sidecar-venv`.
 
-Finished outputs, downloaded sources, separated stems, instrument libraries, model weights, datasets, local runtimes, and intermediate renders are excluded from Git. They remain in the local workspace. A fresh clone needs the corresponding assets and dependencies to render the sessions. Some historical revision scripts also require their original intermediate inputs. First-party production code, MIDI, guides, and session files are included.
+Finished outputs, downloaded sources, separated stems, instrument libraries, model weights, datasets, local runtimes, and intermediate renders are excluded from Git. They remain in the local workspace. A fresh clone needs the corresponding assets and dependencies to render the sessions. Historical revision scripts are retained as records. Superseded previews, diagnostic audio, and disposable render sessions are removed after approval; those inputs need to be regenerated before rerunning an older revision. First-party production code, MIDI, guides, and session files are included.
 
 Source performances and contributing artists are credited in [AGENTS.md](AGENTS.md) and the MP3 metadata. Reference recordings and techniques are documented in the [production reference library](work/shared/production_references/README.md).

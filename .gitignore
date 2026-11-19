@@ -99,3 +99,37 @@ uv_cache/
 # Migration scratch files
 *.migration-pending
 *.incoming
+
+# Regenerable song-analysis render sessions
+/work/songs/*/analysis/**/Master.rpp
+/work/songs/*/analysis/**/* Master.rpp
+/work/songs/*/analysis/**/master.rpp
+/work/songs/*/analysis/**/* master.rpp
+/work/songs/*/analysis/**/premaster.rpp
+/work/songs/*/analysis/**/* premaster.rpp
+/work/songs/*/analysis/**/Premaster.rpp
+/work/songs/*/analysis/**/* Premaster.rpp
+/work/songs/*/analysis/**/Backing.rpp
+/work/songs/*/analysis/**/* Backing.rpp
+/work/songs/*/analysis/**/backing.rpp
+/work/songs/*/analysis/**/* backing.rpp
+/work/songs/*/analysis/**/guitars.rpp
+/work/songs/*/analysis/**/* guitars.rpp
+/work/songs/*/analysis/**/Guitars.rpp
+/work/songs/*/analysis/**/* Guitars.rpp
+/work/songs/*/analysis/**/voice.rpp
+/work/songs/*/analysis/**/* voice.rpp
+/work/songs/*/analysis/**/Voice.rpp
+/work/songs/*/analysis/**/* Voice.rpp
+/work/songs/*/analysis/**/Drums.rpp
+/work/songs/*/analysis/**/* Drums.rpp
+/work/songs/*/analysis/**/drums.rpp
+/work/songs/*/analysis/**/* drums.rpp
+/work/songs/*/analysis/**/rhythm.rpp
+/work/songs/*/analysis/**/* rhythm.rpp
+/work/songs/*/analysis/**/Rhythm.rpp
+/work/songs/*/analysis/**/* Rhythm.rpp
+/work/songs/*/analysis/**/render.rpp
+/work/songs/*/analysis/**/* render.rpp
+/work/songs/*/analysis/**/Render.rpp
+/work/songs/*/analysis/**/* Render.rpp
