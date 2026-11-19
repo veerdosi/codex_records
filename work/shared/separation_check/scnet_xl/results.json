@@ -1,0 +1,48 @@
+{
+  "flash": {
+    "original_start": 106.0,
+    "duration": 8,
+    "scnet_device": "cpu",
+    "SCNet XL IHF": {
+      "matched_side_peak_dbfs": -18.14,
+      "matched_mid_peak_dbfs": -11.3,
+      "side_impulse_count": 0,
+      "stereo_correlation": 0.68
+    },
+    "legacy Demucs vocal specialist other output": {
+      "matched_side_peak_dbfs": 5.53,
+      "matched_mid_peak_dbfs": -11.59,
+      "side_impulse_count": 329,
+      "stereo_correlation": -0.095
+    },
+    "Full htdemucs_ft": {
+      "matched_side_peak_dbfs": -18.15,
+      "matched_mid_peak_dbfs": -10.27,
+      "side_impulse_count": 0,
+      "stereo_correlation": 0.677
+    }
+  },
+  "juice": {
+    "original_start": 23.13,
+    "duration": 8,
+    "scnet_device": "cpu",
+    "SCNet XL IHF": {
+      "matched_side_peak_dbfs": -12.78,
+      "matched_mid_peak_dbfs": -14.05,
+      "side_impulse_count": 0,
+      "stereo_correlation": -0.003
+    },
+    "legacy Demucs vocal specialist other output": {
+      "matched_side_peak_dbfs": 5.94,
+      "matched_mid_peak_dbfs": -14.45,
+      "side_impulse_count": 528,
+      "stereo_correlation": -0.541
+    },
+    "Full htdemucs_ft": {
+      "matched_side_peak_dbfs": -12.44,
+      "matched_mid_peak_dbfs": -13.53,
+      "side_impulse_count": 0,
+      "stereo_correlation": -0.069
+    }
+  }
+}

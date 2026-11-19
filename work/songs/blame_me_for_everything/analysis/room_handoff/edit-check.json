@@ -1,0 +1,7 @@
+{
+  "bridge_downbeat": 96.551723,
+  "room_starts": 96.474717,
+  "room_ends": 97.061723,
+  "room_rms_first_150ms_after_downbeat": -28.8,
+  "kit_rms_first_150ms_after_downbeat": -16.02
+}

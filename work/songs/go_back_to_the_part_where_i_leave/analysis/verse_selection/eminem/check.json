@@ -1,0 +1,14 @@
+{
+  "source": "Love the Way You Lie",
+  "source_cut": [
+    23.43,
+    53.64
+  ],
+  "source_bpm": 86.96691,
+  "vocal_start": 66.15031746031747,
+  "dry_end": 96.36031746031746,
+  "lift": 96.55172335600908,
+  "vocal_active_db": -21.5,
+  "old_vocal_active_db": -21.62,
+  "verse_level_change_db": -0.05
+}

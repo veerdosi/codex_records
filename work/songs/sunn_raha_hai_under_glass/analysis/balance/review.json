@@ -1,0 +1,155 @@
+{
+  "max_source_downbeat_grid_error_ms": 23.05,
+  "shoegaze": {
+    "vocal_over_backing_db": [
+      [
+        "guitar intro",
+        5.5,
+        1.1
+      ],
+      [
+        "verse",
+        7.9,
+        3.7
+      ],
+      [
+        "verse rise",
+        7.2,
+        3.0
+      ],
+      [
+        "prechorus",
+        5.7,
+        1.5
+      ],
+      [
+        "prechorus lift",
+        4.5,
+        0.2
+      ],
+      [
+        "chorus",
+        0.6,
+        -2.4
+      ],
+      [
+        "guitar interlude",
+        18.6,
+        9.5
+      ],
+      [
+        "verse2",
+        7.6,
+        3.3
+      ],
+      [
+        "lift",
+        7.4,
+        3.2
+      ],
+      [
+        "last prechorus",
+        4.2,
+        -0.0
+      ],
+      [
+        "chorus2",
+        0.3,
+        -2.7
+      ]
+    ],
+    "max_change_in_vocal_timing_ms": 0.0,
+    "chorus_kick_max_offset_ms": 18.26,
+    "pickup_swells": [
+      {
+        "time": 83.72,
+        "relative_presence_change_db": 0.71
+      },
+      {
+        "time": 149.79,
+        "relative_presence_change_db": 0.99
+      }
+    ],
+    "verse_two_pickup_backing_db": [
+      -42.31,
+      -35.22
+    ],
+    "premaster_peak_dbfs": -1.82
+  },
+  "dream_pop": {
+    "vocal_over_backing_db": [
+      [
+        "guitar intro",
+        7.9,
+        2.0
+      ],
+      [
+        "verse",
+        9.8,
+        4.8
+      ],
+      [
+        "verse rise",
+        9.5,
+        4.7
+      ],
+      [
+        "prechorus",
+        7.8,
+        2.9
+      ],
+      [
+        "prechorus lift",
+        6.9,
+        2.0
+      ],
+      [
+        "chorus",
+        3.0,
+        -1.1
+      ],
+      [
+        "guitar interlude",
+        20.8,
+        8.0
+      ],
+      [
+        "verse2",
+        9.6,
+        4.5
+      ],
+      [
+        "lift",
+        9.6,
+        4.7
+      ],
+      [
+        "last prechorus",
+        6.5,
+        1.5
+      ],
+      [
+        "chorus2",
+        3.1,
+        -1.1
+      ]
+    ],
+    "max_change_in_vocal_timing_ms": 0.0,
+    "chorus_kick_max_offset_ms": 18.95,
+    "pickup_swells": [
+      {
+        "time": 83.72,
+        "relative_presence_change_db": 0.46
+      },
+      {
+        "time": 149.79,
+        "relative_presence_change_db": 0.75
+      }
+    ],
+    "verse_two_pickup_backing_db": [
+      -43.71,
+      -34.21
+    ],
+    "premaster_peak_dbfs": -2.36
+  }
+}

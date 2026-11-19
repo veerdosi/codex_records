@@ -1,0 +1,8 @@
+{
+  "expected": "A",
+  "transcript": "Checking the audio passages now.",
+  "seen": [
+    "setupComplete"
+  ],
+  "error": null
+}

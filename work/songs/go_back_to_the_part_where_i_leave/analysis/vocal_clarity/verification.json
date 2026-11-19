@@ -1,0 +1,88 @@
+{
+  "clarity": {
+    "Savage": {
+      "speech": {
+        "lead_gain": 0.23,
+        "separation_gain": 0.6
+      },
+      "presence": {
+        "lead_gain": 2.08,
+        "separation_gain": 3.35
+      },
+      "consonants": {
+        "lead_gain": 1.59,
+        "separation_gain": 2.58
+      }
+    },
+    "what": {
+      "speech": {
+        "lead_gain": 0.67,
+        "separation_gain": 2.02
+      },
+      "presence": {
+        "lead_gain": 1.96,
+        "separation_gain": 5.06
+      },
+      "consonants": {
+        "lead_gain": 0.98,
+        "separation_gain": 3.3
+      }
+    },
+    "it": {
+      "speech": {
+        "lead_gain": 0.86,
+        "separation_gain": 1.55
+      },
+      "presence": {
+        "lead_gain": 1.97,
+        "separation_gain": 5.1
+      },
+      "consonants": {
+        "lead_gain": 0.98,
+        "separation_gain": 3.34
+      }
+    },
+    "really": {
+      "speech": {
+        "lead_gain": 1.55,
+        "separation_gain": 2.07
+      },
+      "presence": {
+        "lead_gain": 2.69,
+        "separation_gain": 5.31
+      },
+      "consonants": {
+        "lead_gain": 1.57,
+        "separation_gain": 3.49
+      }
+    },
+    "is": {
+      "speech": {
+        "lead_gain": 1.18,
+        "separation_gain": 1.51
+      },
+      "presence": {
+        "lead_gain": 2.2,
+        "separation_gain": 3.82
+      },
+      "consonants": {
+        "lead_gain": 0.81,
+        "separation_gain": 1.53
+      }
+    }
+  },
+  "harmony": {
+    "savage": [
+      65.775759637188,
+      93.75
+    ],
+    "eminem": [
+      100.176,
+      101.244
+    ],
+    "last_rewind_end": 130.1251700680272,
+    "harmony_full": 131.97448979591837,
+    "kanye_bar": 132.41380952380953
+  },
+  "unaffected_ranges_null": true
+}

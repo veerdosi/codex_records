@@ -1,0 +1,309 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "kind": "level_up",
+      "section_start_s": 111.0,
+      "passed": true,
+      "measured": {
+        "correlation": 1.0,
+        "flags": [
+          "level"
+        ],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": 5.5,
+        "linear_gain": 1.8836491107961855,
+        "dropouts": [],
+        "residual_db": -143.22
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 2,
+      "kind": "dropout",
+      "section_start_s": 111.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.98306,
+        "flags": [
+          "dropout"
+        ],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": -0.334,
+        "linear_gain": 0.9622574253248755,
+        "dropouts": [
+          {
+            "start_s": 2.15,
+            "duration_ms": 140
+          }
+        ],
+        "residual_db": -14.4
+      },
+      "expected_dropout": {
+        "start_s": 2.15,
+        "duration_ms": 140.0
+      }
+    },
+    {
+      "id": 3,
+      "kind": "same",
+      "section_start_s": 111.0,
+      "passed": true,
+      "measured": {
+        "correlation": 1.0,
+        "flags": [],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": -0.0,
+        "linear_gain": 0.9999999999667304,
+        "dropouts": [],
+        "residual_db": -145.91
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 4,
+      "kind": "pitch_down",
+      "section_start_s": 111.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.03329,
+        "flags": [
+          "pitch"
+        ],
+        "pitch_cents": -100.0,
+        "pitch_agreement": 0.996
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 5,
+      "kind": "level_down",
+      "section_start_s": 64.0,
+      "passed": true,
+      "measured": {
+        "correlation": 1.0,
+        "flags": [
+          "level"
+        ],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": -4.5,
+        "linear_gain": 0.5956621170785257,
+        "dropouts": [],
+        "residual_db": -146.65
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 6,
+      "kind": "combined",
+      "section_start_s": 111.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.99528,
+        "flags": [
+          "timing",
+          "level"
+        ],
+        "offset_samples": 3616,
+        "offset_ms": 82.0,
+        "gain_db": -3.0,
+        "linear_gain": 0.7079457640422987,
+        "dropouts": [],
+        "residual_db": -146.82
+      },
+      "expected_dropout": null,
+      "after_repair": {
+        "correlation": 0.99528,
+        "flags": [],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": -0.0,
+        "linear_gain": 0.9999999999099758,
+        "dropouts": [],
+        "residual_db": -142.74
+      },
+      "repair_error_db_before": 1.68,
+      "repair_error_db_after": -142.56
+    },
+    {
+      "id": 7,
+      "kind": "tiny_gain",
+      "section_start_s": 64.0,
+      "passed": true,
+      "measured": {
+        "correlation": 1.0,
+        "flags": [],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": 0.3,
+        "linear_gain": 1.0351421832600203,
+        "dropouts": [],
+        "residual_db": -145.35
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 8,
+      "kind": "pitch_up",
+      "section_start_s": 64.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.02649,
+        "flags": [
+          "pitch"
+        ],
+        "pitch_cents": 100.0,
+        "pitch_agreement": 1.0
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 9,
+      "kind": "dropout",
+      "section_start_s": 64.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.97865,
+        "flags": [
+          "dropout"
+        ],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": -0.397,
+        "linear_gain": 0.9552970599567795,
+        "dropouts": [
+          {
+            "start_s": 3.1,
+            "duration_ms": 240
+          }
+        ],
+        "residual_db": -13.7
+      },
+      "expected_dropout": {
+        "start_s": 3.1,
+        "duration_ms": 240.0
+      }
+    },
+    {
+      "id": 10,
+      "kind": "late",
+      "section_start_s": 111.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.99459,
+        "flags": [
+          "timing"
+        ],
+        "offset_samples": 5512,
+        "offset_ms": 124.99,
+        "gain_db": -0.0,
+        "linear_gain": 0.9999999999602885,
+        "dropouts": [],
+        "residual_db": -145.93
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 11,
+      "kind": "same",
+      "section_start_s": 64.0,
+      "passed": true,
+      "measured": {
+        "correlation": 1.0,
+        "flags": [],
+        "offset_samples": 0,
+        "offset_ms": 0.0,
+        "gain_db": -0.0,
+        "linear_gain": 0.9999999999866825,
+        "dropouts": [],
+        "residual_db": -145.45
+      },
+      "expected_dropout": null
+    },
+    {
+      "id": 12,
+      "kind": "early",
+      "section_start_s": 64.0,
+      "passed": true,
+      "measured": {
+        "correlation": 0.99719,
+        "flags": [
+          "timing"
+        ],
+        "offset_samples": -3969,
+        "offset_ms": -90.0,
+        "gain_db": 0.0,
+        "linear_gain": 1.0000000000843146,
+        "dropouts": [],
+        "residual_db": -145.43
+      },
+      "expected_dropout": null
+    }
+  ],
+  "loops": [
+    {
+      "start_a_s": 60.69,
+      "start_b_s": 82.759,
+      "waveform_correlation": 0.97765,
+      "align_ms": 0.0
+    },
+    {
+      "start_a_s": 60.69,
+      "start_b_s": 104.828,
+      "waveform_correlation": 0.97124,
+      "align_ms": 0.023
+    },
+    {
+      "start_a_s": 60.69,
+      "start_b_s": 126.897,
+      "waveform_correlation": 0.98034,
+      "align_ms": 0.0
+    },
+    {
+      "start_a_s": 60.69,
+      "start_b_s": 148.966,
+      "waveform_correlation": 0.99784,
+      "align_ms": 0.0
+    },
+    {
+      "start_a_s": 82.759,
+      "start_b_s": 104.828,
+      "waveform_correlation": 0.99119,
+      "align_ms": 0.023
+    },
+    {
+      "start_a_s": 82.759,
+      "start_b_s": 126.897,
+      "waveform_correlation": 0.99229,
+      "align_ms": 0.0
+    },
+    {
+      "start_a_s": 82.759,
+      "start_b_s": 148.966,
+      "waveform_correlation": 0.97705,
+      "align_ms": 0.0
+    },
+    {
+      "start_a_s": 104.828,
+      "start_b_s": 126.897,
+      "waveform_correlation": 0.99428,
+      "align_ms": -0.023
+    },
+    {
+      "start_a_s": 104.828,
+      "start_b_s": 148.966,
+      "waveform_correlation": 0.96735,
+      "align_ms": 0.0
+    },
+    {
+      "start_a_s": 126.897,
+      "start_b_s": 148.966,
+      "waveform_correlation": 0.97739,
+      "align_ms": 0.0
+    }
+  ]
+}

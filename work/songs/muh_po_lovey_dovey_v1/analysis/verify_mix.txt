@@ -1,0 +1,53 @@
+duration 211.428 peak -5.3166956458655665 render-stem sum null -128.9313729110381
+Intro | Original motif over Farebi 0.0 11.43 mix -25.5 bed -30.3 voice -30.9 original -29.6
+Chaar Diwaari | Chorus I 11.43 34.29 mix -18.5 bed -21.6 voice -21.3 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   11.43 -0.3 7.0
+   22.86 0.8 9.9
+Encore ABJ | Namastute 34.29 85.71 mix -20.2 bed -23.4 voice -23.0 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   34.29 0.0 7.0
+   45.71 -0.7 7.2
+   57.14 1.0 7.1
+   68.57 -0.1 8.5
+   80.0 2.6 11.2
+Turnaround 85.71 88.57 mix -22.6 bed -28.0 voice -24.2 original -180.7
+Chaar Diwaari | Chorus II 88.57 111.43 mix -18.7 bed -22.5 voice -20.9 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   88.57 1.0 8.4
+   100.0 2.0 11.3
+Bridge | Guitar answer 111.43 117.14 mix -28.8 bed -29.6 voice -180.7 original -36.7
+Calm | Namastute 117.14 162.86 mix -19.5 bed -22.2 voice -22.9 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   117.14 -0.5 4.3
+   128.57 -0.1 6.4
+   140.0 -1.7 7.3
+   151.43 -0.7 6.7
+Turnaround 162.86 165.71 mix -23.8 bed -35.1 voice -24.1 original -180.7
+Chaar Diwaari | Final chorus 165.71 194.29 mix -18.7 bed -21.9 voice -21.5 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   165.71 5.1 10.5
+   177.14 -0.8 3.9
+   188.57 -0.3 4.3
+Outro | Farebi and nylon 194.29 211.43 mix -32.4 bed -33.7 voice -180.7 original -38.3
+Intro/outro (mix, Farebi, original, voice) LUFS
+0 [-28.0, -34.1, -29.2, -180.7]
+2.857 [-28.9, -36.5, -29.6, -180.7]
+5.714 [-25.2, -27.1, -29.7, -180.7]
+8.571 [-22.6, -29.5, -30.0, -24.9]
+194.286 [-32.2, -32.7, -41.8, -180.7]
+197.143 [-32.8, -34.7, -37.3, -180.7]
+200 [-31.9, -33.7, -36.8, -180.7]
+202.857 [-33.6, -36.3, -36.8, -180.7]
+205.714 [-30.6, -31.7, -37.5, -180.7]
+208.571 [-34.0, -34.4, -44.3, -180.7]
+Handoff: peak 250ms before; peak after; largest single sample slope nearby
+Chaar Diwaari | Chorus I 11.429 -14.6 -7.5 -25.8
+Encore ABJ | Namastute 34.286 -12.1 -9.8 -19.9
+Turnaround 85.714 -12.8 -8.7 -17.9
+Chaar Diwaari | Chorus II 88.571 -14.2 -7.7 -25.5
+Bridge | Guitar answer 111.429 -13.0 -18.2 -35.4
+Calm | Namastute 117.143 -15.7 -11.4 -24.2
+Turnaround 162.857 -11.6 -12.2 -21.5
+Chaar Diwaari | Final chorus 165.714 -13.3 -10.1 -24.6
+Outro | Farebi and nylon 194.286 -8.2 -20.1 -35.4

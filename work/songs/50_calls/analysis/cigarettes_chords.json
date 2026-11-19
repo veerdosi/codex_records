@@ -1,0 +1,73 @@
+{
+  "path": "/Users/veerdosi/Documents/code/github/codex_records/work/experiments/juice_kanye_interlude/sources/cigarettes.wav",
+  "name": "cigarettes.wav",
+  "source": "file",
+  "engine": "template",
+  "per": "bar",
+  "startTime": 0.192,
+  "endTime": 57.192,
+  "key": {
+    "key": "B minor",
+    "confidence": 0.38,
+    "relative": "D major"
+  },
+  "progression": "Gmaj7 Bm7 Dmaj7 Bm7",
+  "total": 4,
+  "offset": 0,
+  "hasMore": false,
+  "chords": [
+    {
+      "start": 0.192,
+      "end": 3.192,
+      "bar": 1,
+      "beat": 1,
+      "length": 1,
+      "chord": "Gmaj7",
+      "score": 0.75,
+      "root": "G",
+      "quality": "maj7",
+      "roman": "VImaj7",
+      "bassMidi": 31
+    },
+    {
+      "start": 3.192,
+      "end": 18.192,
+      "bar": 2,
+      "beat": 1,
+      "length": 5,
+      "chord": "Bm7",
+      "score": 0.743,
+      "root": "B",
+      "quality": "m7",
+      "roman": "i7",
+      "bassMidi": 35
+    },
+    {
+      "start": 18.192,
+      "end": 24.192,
+      "bar": 7,
+      "beat": 1,
+      "length": 2,
+      "chord": "Dmaj7",
+      "score": 0.731,
+      "root": "D",
+      "quality": "maj7",
+      "roman": "IIImaj7",
+      "bassMidi": 38
+    },
+    {
+      "start": 24.192,
+      "end": 57.192,
+      "bar": 9,
+      "beat": 1,
+      "length": 11,
+      "chord": "Bm7",
+      "score": 0.693,
+      "root": "B",
+      "quality": "m7",
+      "roman": "i7",
+      "bassMidi": 35
+    }
+  ],
+  "hint": "Loose fit: the part may be a melody or riff more than chords, or drums/noise are in the mix. On a mix, try separate_stems first, or per \"bar\"."
+}

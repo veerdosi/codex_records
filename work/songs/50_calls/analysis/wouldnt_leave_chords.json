@@ -1,0 +1,47 @@
+{
+  "path": "/Users/veerdosi/Documents/code/github/codex_records/work/experiments/juice_kanye_interlude/sources/wouldnt_leave.wav",
+  "name": "wouldnt_leave.wav",
+  "source": "file",
+  "engine": "template",
+  "per": "bar",
+  "startTime": 70.56,
+  "endTime": 117.38,
+  "key": {
+    "key": "Bb major",
+    "confidence": 0.05,
+    "relative": "G minor"
+  },
+  "progression": "Bbmaj7 Bmaj7",
+  "total": 2,
+  "offset": 0,
+  "hasMore": false,
+  "chords": [
+    {
+      "start": 70.56,
+      "end": 105.682,
+      "bar": 1,
+      "beat": 1,
+      "length": 12,
+      "chord": "Bbmaj7",
+      "score": 0.649,
+      "root": "Bb",
+      "quality": "maj7",
+      "roman": "Imaj7",
+      "bassMidi": 34
+    },
+    {
+      "start": 105.682,
+      "end": 117.38,
+      "bar": 13,
+      "beat": 1,
+      "length": 4,
+      "chord": "Bmaj7",
+      "score": 0.685,
+      "root": "B",
+      "quality": "maj7",
+      "roman": "♭IImaj7",
+      "bassMidi": 35
+    }
+  ],
+  "hint": "Loose fit: the part may be a melody or riff more than chords, or drums/noise are in the mix. On a mix, try separate_stems first, or per \"bar\"."
+}

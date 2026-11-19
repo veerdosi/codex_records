@@ -1,0 +1,28 @@
+{
+  "tempo": 87,
+  "duration": 229.9655328798186,
+  "sav_start": 65.44401360544218,
+  "sav_end": 93.55022675736961,
+  "bridge_start": 93.79310657596372,
+  "eminem_bar": 96.55172335600908,
+  "em_start": 97.45514739229024,
+  "em_end": 126.70514739229024,
+  "rewind_beats": [
+    126.89655328798186,
+    127.58621315192744,
+    128.27585034013606
+  ],
+  "kanye_return": 129.65517006802722,
+  "sav_tuning": {
+    "correction_seconds": 16.09,
+    "median_applied_cents": 21.8,
+    "maximum_applied_cents": 55.9,
+    "rubberband_offset_samples": -18
+  },
+  "em_tuning": {
+    "correction_seconds": 14.51,
+    "median_applied_cents": 18.5,
+    "maximum_applied_cents": 55.4,
+    "rubberband_offset_samples": -4
+  }
+}

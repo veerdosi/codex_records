@@ -1,0 +1,14 @@
+{
+  "source": "Said N Done",
+  "source_cut": [
+    11.24,
+    41.74
+  ],
+  "source_bpm": 80.1718,
+  "vocal_start": 65.44401360544218,
+  "dry_end": 93.55022675736961,
+  "lift": 96.55172335600908,
+  "vocal_active_db": -21.5,
+  "old_vocal_active_db": -21.62,
+  "verse_level_change_db": -0.05
+}

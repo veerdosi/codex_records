@@ -1,0 +1,26 @@
+{
+  "voice": [
+    1.02,
+    1.79,
+    2.72
+  ],
+  "backing": [
+    1.07,
+    -0.17,
+    -0.66
+  ],
+  "Low end around 121.379": [
+    -19.09,
+    -18.71
+  ],
+  "Low end around 171.034": [
+    -22.04,
+    -23.02
+  ],
+  "timing_seconds": {
+    "Kanye | Verse continuation": 121.3793,
+    "Kanye | Sung reprise": 143.4483,
+    "Final chorus | Four bars": 165.5172,
+    "Original piano outro": 176.5517
+  }
+}

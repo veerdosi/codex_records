@@ -1,0 +1,9 @@
+{
+  "expected": "SECOND",
+  "transcript": "SECOND",
+  "seen": [
+    "setupComplete",
+    "turnComplete"
+  ],
+  "error": null
+}

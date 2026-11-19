@@ -1,0 +1,10 @@
+{
+  "expected": "B",
+  "transcript": "Let me listen closely to those passages.",
+  "seen": [
+    "setupComplete",
+    "IN_PROGRESS",
+    "turnComplete"
+  ],
+  "error": "deadline"
+}

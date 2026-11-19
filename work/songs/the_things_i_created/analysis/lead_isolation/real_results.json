@@ -1,0 +1,17 @@
+{
+  "work/songs/the_things_i_created/analysis/lead_isolation/real_vocal_bus.wav": {
+    "lead_gain_db": 5.72,
+    "lead_polarity_inverted": false,
+    "non_lead_residual_db": -4.54
+  },
+  "work/songs/the_things_i_created/analysis/lead_isolation/frazer_real_vocal_bus_lead.wav": {
+    "lead_gain_db": 5.7,
+    "lead_polarity_inverted": false,
+    "non_lead_residual_db": -4.66
+  },
+  "work/songs/the_things_i_created/analysis/lead_isolation/anvuew_real_vocal_bus_lead.wav": {
+    "lead_gain_db": 5.68,
+    "lead_polarity_inverted": false,
+    "non_lead_residual_db": -4.7
+  }
+}

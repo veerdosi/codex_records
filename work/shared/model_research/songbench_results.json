@@ -1,0 +1,47 @@
+{
+  "V3_clean": {
+    "Melody": 5.33217,
+    "Arrangement": 5.51471,
+    "Musicality": 5.06909,
+    "Vocal": 5.38632,
+    "Instrumental": 6.04884,
+    "Mixing": 5.48916,
+    "Structure": 4.98982
+  },
+  "V3_identical_repeat": {
+    "Melody": 5.33217,
+    "Arrangement": 5.51471,
+    "Musicality": 5.06909,
+    "Vocal": 5.38632,
+    "Instrumental": 6.04884,
+    "Mixing": 5.48916,
+    "Structure": 4.98982
+  },
+  "deliberate_noise": {
+    "Melody": 4.66531,
+    "Arrangement": 4.29682,
+    "Musicality": 4.06247,
+    "Vocal": 3.93037,
+    "Instrumental": 4.65752,
+    "Mixing": 4.09521,
+    "Structure": 4.18533
+  },
+  "deliberate_gap": {
+    "Melody": 4.95926,
+    "Arrangement": 5.24986,
+    "Musicality": 4.83184,
+    "Vocal": 5.31355,
+    "Instrumental": 6.0508,
+    "Mixing": 5.3286,
+    "Structure": 4.80097
+  },
+  "V2_same_transition": {
+    "Melody": 5.35593,
+    "Arrangement": 5.5888,
+    "Musicality": 5.1284,
+    "Vocal": 5.53329,
+    "Instrumental": 6.21839,
+    "Mixing": 5.52018,
+    "Structure": 5.09546
+  }
+}

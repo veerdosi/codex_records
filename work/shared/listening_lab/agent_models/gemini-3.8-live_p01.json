@@ -1,0 +1,8 @@
+{
+  "expected": "B",
+  "transcript": "B",
+  "seen": [
+    "setupComplete"
+  ],
+  "error": null
+}

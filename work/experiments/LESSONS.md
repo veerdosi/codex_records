@@ -1,0 +1,5 @@
+
+- For “Muh Pe Lovey Dovey,” the “Farebi” chorus was at 90 BPM while the two “Namastute” verses were at 80 BPM. Meeting at 84 kept each stretch within about 7%. “11K” and “Khatta Flow” would have needed at least 20% on their half-time grids. The arrangement retained the “Farebi” backing throughout and used a chord tail to soften the final drop into the outro.
+- The 84 BPM version moved both Namastute verses 5% faster and still felt rushed. In the revision, 80 BPM preserves both performances and uses the Farebi groove through the handoffs. Measure cadence as well as stretch size.
+- “50 Calls” matched the beat grid at 80 BPM, but the second vocal passage was two beats out of its original bar phase. Restoring the bar accent also meant keeping the drums and bass under the relocated last line.
+- Compare the exact instrumental release against the familiar album cut before arranging around it. Different releases can have different intros and grooves. Check the ends of complete vocal phrases before fitting them to the backing.

@@ -1,0 +1,10 @@
+```json
+{
+  "heard_X": "A hip-hop track with a male rapper. The beat is driven by a prominent kick and snare. The rapper's vocal is clear and sits forward in the mix. The excerpt ends abruptly mid-phrase.",
+  "heard_Y": "The same hip-hop track as in X. It features the identical rapper, beat, and instrumental arrangement. The performance and mix are sonically identical to excerpt X. This excerpt also ends abruptly mid-phrase.",
+  "preferred": "tie",
+  "confidence": "high",
+  "concrete_differences": "There are no audible differences between the two excerpts. They appear to be the exact same 16-second segment of the song.",
+  "one_essential_fix_or_none": "Both excerpts end with an abrupt cut-off. A proper fade-out or a complete musical phrase would provide a more natural and satisfying conclusion to the clip."
+}
+```

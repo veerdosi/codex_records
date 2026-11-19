@@ -1,0 +1,82 @@
+{
+  "ColdStar": {
+    "p_higher": 0.6348712174891618,
+    "correct": true
+  },
+  "GoodTime": {
+    "p_higher": 0.19382417459715032,
+    "correct": false
+  },
+  "HighBloodPressure": {
+    "p_higher": 0.5212648903407616,
+    "correct": true
+  },
+  "IdLikeToKnow": {
+    "p_higher": 0.5381826043184168,
+    "correct": true
+  },
+  "InTheMeantime": {
+    "p_higher": 0.7533499350655821,
+    "correct": true
+  },
+  "LeadMe": {
+    "p_higher": 0.19117042758872463,
+    "correct": false
+  },
+  "Lolita": {
+    "p_higher": 0.701773018122066,
+    "correct": true
+  },
+  "Lush": {
+    "p_higher": 0.45635553194990636,
+    "correct": false
+  },
+  "MyFunnyValentine": {
+    "p_higher": 0.2713288665354726,
+    "correct": false
+  },
+  "NewSkin": {
+    "p_higher": 0.5857842328906891,
+    "correct": true
+  },
+  "NoPrize": {
+    "p_higher": 0.928528075466916,
+    "correct": true
+  },
+  "NotAlone": {
+    "p_higher": 0.3606707891748172,
+    "correct": false
+  },
+  "OldTree": {
+    "p_higher": 0.33119410496366325,
+    "correct": false
+  },
+  "PouringRoom": {
+    "p_higher": 0.5596110048279139,
+    "correct": true
+  },
+  "RedToBlue": {
+    "p_higher": 0.4095497949345168,
+    "correct": false
+  },
+  "RightOnTime": {
+    "p_higher": 0.40968023779276674,
+    "correct": false
+  },
+  "SeaOfLeaves": {
+    "p_higher": 0.6475830067730144,
+    "correct": true
+  },
+  "UnderACoveredSky": {
+    "p_higher": 0.32101595155597396,
+    "correct": false
+  },
+  "Vermont": {
+    "p_higher": 0.5379357059640654,
+    "correct": true
+  },
+  "YouAndMeAndTheRadio": {
+    "p_higher": 0.33016540548919565,
+    "correct": false
+  }
+}

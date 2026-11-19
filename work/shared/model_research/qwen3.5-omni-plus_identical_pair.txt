@@ -1,0 +1,10 @@
+```json
+{
+  "heard_X": "A hip-hop track featuring a male rapper, which transitions at approximately the 8-second mark to a sung chorus by a different male vocalist with a higher-pitched, melodic delivery.",
+  "heard_Y": "A hip-hop track featuring a male rapper, which transitions at approximately the 8-second mark to a sung chorus by a different male vocalist with a higher-pitched, melodic delivery.",
+  "preferred": "tie",
+  "confidence": "high",
+  "concrete_differences": "There are no audible differences between excerpt X and excerpt Y. They appear to be identical copies of the same 16-second audio clip.",
+  "one_essential_fix_or_none": "none"
+}
+```

@@ -1,0 +1,23 @@
+{
+  "runaway": {
+    "url": "https://www.youtube.com/watch?v=VhEoCOWUtcU",
+    "version": "UMG album audio, reused from Blame Me for Everything",
+    "workspace_source": "../../blame_me_for_everything/sources/runaway.wav"
+  },
+  "said_n_done": {
+    "url": "https://www.youtube.com/watch?v=_zXBotJmdOs",
+    "version": "Official audio, 21 Savage performance selected"
+  },
+  "love_the_way_you_lie": {
+    "url": "https://www.youtube.com/watch?v=ozPOI0TJHCg",
+    "version": "UMG official album audio, Eminem performance selected"
+  },
+  "dark_days": {
+    "url": "https://www.youtube.com/watch?v=CiFxS8JaUfM",
+    "version": "Official audio, auditioned 21 Savage candidate"
+  },
+  "spin_bout_u": {
+    "url": "https://www.youtube.com/watch?v=jALeORvCJG8",
+    "version": "Official audio, evaluated tempo"
+  }
+}

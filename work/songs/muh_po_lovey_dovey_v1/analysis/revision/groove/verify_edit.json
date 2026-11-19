@@ -1,0 +1,27 @@
+{
+  "trackIndex": 6,
+  "trackName": "Veer | Plucks",
+  "referencePath": "/Users/veerdosi/Documents/code/github/codex_records/work/songs/muh_pe_lovey_dovey/analysis/revision/groove/Before plucks 44100.wav",
+  "startTime": 0,
+  "endTime": 10.42,
+  "verdict": "ok",
+  "expect": "changed",
+  "sampleRate": 44100,
+  "checks": {
+    "discontinuity": {
+      "verdict": "ok",
+      "score": 2.95,
+      "referenceScore": 3.12,
+      "atSeconds": 6.942,
+      "channel": 0
+    },
+    "null": {
+      "verdict": "info",
+      "delayMs": -3.75,
+      "gainDb": 23.83,
+      "polarityInverted": false,
+      "residualDb": 0,
+      "referenceRmsDb": -31.9
+    }
+  }
+}

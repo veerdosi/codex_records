@@ -1,0 +1,17 @@
+{
+  "source_beat_positions_checked": 290,
+  "source_grid_median_error_ms": 6.338094123144344,
+  "source_grid_p95_error_ms": 21.55556075860973,
+  "chorus_downbeats_checked": 12,
+  "chorus_kick_p95_offset_ms": 15.387028798903655,
+  "vocal_free_intro_seconds": 10.830589569160997,
+  "vocal_free_interlude_seconds": 8.01392290249433,
+  "vocal_passages_checked": 12,
+  "vocal_max_offset_from_placement_ms": 3.3173960757579835,
+  "clean_guitar_notes_checked": 335,
+  "clean_guitar_within_quarter_semitone_pct": 100.0,
+  "held_bass_notes_checked": 114,
+  "held_bass_within_quarter_semitone_pct": 100.0,
+  "encoded_master_length_s": 182.06736961451247,
+  "encoded_master_max_lag_samples": 0
+}

@@ -1,0 +1,12 @@
+{
+  "expected": "SAME",
+  "transcript": "I'm sorry, but a system error occurred.",
+  "seen": [
+    "setupComplete",
+    "IN_PROGRESS",
+    "turnComplete",
+    "IDLE",
+    "turnComplete"
+  ],
+  "error": null
+}

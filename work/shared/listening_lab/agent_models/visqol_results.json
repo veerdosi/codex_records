@@ -1,0 +1,236 @@
+{
+  "p01_timing_B": {
+    "score": 4.0987,
+    "similarity": 0.8078,
+    "worst_window": [
+      2.68,
+      3.28
+    ],
+    "worst_score": 0.7609
+  },
+  "p02_timing_A": {
+    "score": 4.1285,
+    "similarity": 0.8077,
+    "worst_window": [
+      7.48,
+      8.08
+    ],
+    "worst_score": 0.7543
+  },
+  "p03_timing_SAME": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      5.68,
+      6.28
+    ],
+    "worst_score": 1.0
+  },
+  "p04_pitch_A": {
+    "score": 4.6847,
+    "similarity": 0.9817,
+    "worst_window": [
+      6.28,
+      6.88
+    ],
+    "worst_score": 0.9198
+  },
+  "p05_pitch_SAME": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      5.68,
+      6.28
+    ],
+    "worst_score": 1.0
+  },
+  "p06_gap_A": {
+    "score": 4.5099,
+    "similarity": 0.9705,
+    "worst_window": [
+      5.08,
+      5.68
+    ],
+    "worst_score": 0.8087
+  },
+  "p07_gap_SAME": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      5.08,
+      5.68
+    ],
+    "worst_score": 1.0
+  },
+  "p08_balance_B": {
+    "score": 3.9584,
+    "similarity": 0.894,
+    "worst_window": [
+      3.28,
+      3.88
+    ],
+    "worst_score": 0.8799
+  },
+  "p09_balance_A": {
+    "score": 3.9814,
+    "similarity": 0.8917,
+    "worst_window": [
+      3.28,
+      3.88
+    ],
+    "worst_score": 0.8712
+  },
+  "p10_balance_SAME": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      2.08,
+      2.68
+    ],
+    "worst_score": 1.0
+  },
+  "61s_same": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      1.48,
+      2.08
+    ],
+    "worst_score": 1.0
+  },
+  "61s_global_gain_minus4dB": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      4.48,
+      5.08
+    ],
+    "worst_score": 1.0
+  },
+  "61s_vocal_late125ms": {
+    "score": 3.9259,
+    "similarity": 0.7407,
+    "worst_window": [
+      1.48,
+      2.08
+    ],
+    "worst_score": 0.6422
+  },
+  "61s_vocal_early90ms": {
+    "score": 3.896,
+    "similarity": 0.7361,
+    "worst_window": [
+      1.49,
+      2.08
+    ],
+    "worst_score": 0.6502
+  },
+  "61s_vocal_gap300ms": {
+    "score": 4.6372,
+    "similarity": 0.983,
+    "worst_window": [
+      3.88,
+      4.48
+    ],
+    "worst_score": 0.7448
+  },
+  "61s_vocal_louder6dB": {
+    "score": 4.583,
+    "similarity": 0.9421,
+    "worst_window": [
+      5.68,
+      6.28
+    ],
+    "worst_score": 0.9252
+  },
+  "61s_lowpass3500Hz": {
+    "score": 1.3702,
+    "similarity": 0.6002,
+    "worst_window": [
+      0.28,
+      0.88
+    ],
+    "worst_score": 0.5812
+  },
+  "61s_hard_clipped": {
+    "score": 4.4595,
+    "similarity": 0.9246,
+    "worst_window": [
+      8.68,
+      9.28
+    ],
+    "worst_score": 0.9008
+  },
+  "121s_same": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      8.08,
+      8.68
+    ],
+    "worst_score": 1.0
+  },
+  "121s_global_gain_minus4dB": {
+    "score": 4.7321,
+    "similarity": 1.0,
+    "worst_window": [
+      3.88,
+      4.48
+    ],
+    "worst_score": 1.0
+  },
+  "121s_vocal_late125ms": {
+    "score": 3.7682,
+    "similarity": 0.7412,
+    "worst_window": [
+      4.48,
+      5.08
+    ],
+    "worst_score": 0.5442
+  },
+  "121s_vocal_early90ms": {
+    "score": 3.8139,
+    "similarity": 0.7555,
+    "worst_window": [
+      4.48,
+      5.08
+    ],
+    "worst_score": 0.5254
+  },
+  "121s_vocal_gap300ms": {
+    "score": 4.6465,
+    "similarity": 0.9801,
+    "worst_window": [
+      3.88,
+      4.48
+    ],
+    "worst_score": 0.7015
+  },
+  "121s_vocal_louder6dB": {
+    "score": 4.57,
+    "similarity": 0.9549,
+    "worst_window": [
+      4.48,
+      5.08
+    ],
+    "worst_score": 0.9342
+  },
+  "121s_lowpass3500Hz": {
+    "score": 1.4133,
+    "similarity": 0.6009,
+    "worst_window": [
+      1.48,
+      2.08
+    ],
+    "worst_score": 0.5777
+  },
+  "121s_hard_clipped": {
+    "score": 4.4257,
+    "similarity": 0.9231,
+    "worst_window": [
+      0.28,
+      0.88
+    ],
+    "worst_score": 0.8375
+  }
+}

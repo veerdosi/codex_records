@@ -1,0 +1,6 @@
+{
+  "heard_X": "A rap-led vocal section over instrumental backing gives way to a more melodic sung section. The rapper-to-singer handoff occurs at roughly 9–10 seconds into the excerpt.",
+  "heard_Y": "The same basic structure is heard: a rap-led section followed by a melodic sung section, with the handoff occurring at roughly the same relative point, about 9–10 seconds into the excerpt.",
+  "preferred": "tie",
+  "confidence": "high",
+  "concrete_differences": "No reliable audible difference was detected between X and Y

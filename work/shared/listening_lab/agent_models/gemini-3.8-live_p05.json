@@ -1,0 +1,8 @@
+{
+  "expected": "SAME",
+  "transcript": "SAME",
+  "seen": [
+    "setupComplete"
+  ],
+  "error": null
+}

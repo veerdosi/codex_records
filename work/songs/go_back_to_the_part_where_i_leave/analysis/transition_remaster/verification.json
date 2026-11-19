@@ -1,0 +1,90 @@
+{
+  "backing": {
+    "Before backing": {
+      "outgoing hook": {
+        "rms_dbfs": -18.17,
+        "bass_dbfs": -22.95,
+        "midrange_dbfs": -24.08,
+        "presence_dbfs": -31.72
+      },
+      "Savage pickup": {
+        "rms_dbfs": -18.75,
+        "bass_dbfs": -22.29,
+        "midrange_dbfs": -25.96,
+        "presence_dbfs": -35.92
+      },
+      "Savage verse": {
+        "rms_dbfs": -16.62,
+        "bass_dbfs": -19.9,
+        "midrange_dbfs": -29.33,
+        "presence_dbfs": -34.95
+      },
+      "Eminem verse": {
+        "rms_dbfs": -17.47,
+        "bass_dbfs": -21.16,
+        "midrange_dbfs": -27.82,
+        "presence_dbfs": -36.47
+      },
+      "Kanye verse": {
+        "rms_dbfs": -16.67,
+        "bass_dbfs": -20.09,
+        "midrange_dbfs": -25.8,
+        "presence_dbfs": -33.46
+      }
+    },
+    "After backing": {
+      "outgoing hook": {
+        "rms_dbfs": -18.17,
+        "bass_dbfs": -22.95,
+        "midrange_dbfs": -24.08,
+        "presence_dbfs": -31.72
+      },
+      "Savage pickup": {
+        "rms_dbfs": -16.72,
+        "bass_dbfs": -19.84,
+        "midrange_dbfs": -25.57,
+        "presence_dbfs": -34.83
+      },
+      "Savage verse": {
+        "rms_dbfs": -16.2,
+        "bass_dbfs": -20.14,
+        "midrange_dbfs": -24.88,
+        "presence_dbfs": -32.62
+      },
+      "Eminem verse": {
+        "rms_dbfs": -16.36,
+        "bass_dbfs": -19.89,
+        "midrange_dbfs": -25.97,
+        "presence_dbfs": -32.86
+      },
+      "Kanye verse": {
+        "rms_dbfs": -16.68,
+        "bass_dbfs": -20.09,
+        "midrange_dbfs": -25.81,
+        "presence_dbfs": -33.46
+      }
+    }
+  },
+  "pitch": {
+    "savage": {
+      "voiced_frames": 1296,
+      "target_tracking": 0.904,
+      "deviation_from_key_cents_before": 49.91,
+      "deviation_from_key_cents_after": 25.04,
+      "sample_count": 1260652
+    },
+    "eminem": {
+      "voiced_frames": 1126,
+      "target_tracking": 0.896,
+      "deviation_from_key_cents_before": 49.97,
+      "deviation_from_key_cents_after": 29.07,
+      "sample_count": 1353429
+    }
+  },
+  "rewind_beats": [
+    126.89655328798186,
+    127.58621315192744,
+    128.27585034013606
+  ],
+  "kanye_downbeat": 129.65517006802722
+}

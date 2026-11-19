@@ -1,0 +1,20 @@
+{
+  "work/songs/the_things_i_created/analysis/lead_isolation/controlled_mix.wav": {
+    "lead_gain_db": -0.0,
+    "lead_polarity_inverted": false,
+    "non_lead_residual_db": -6.02,
+    "interference_gain_db": -0.0
+  },
+  "work/songs/the_things_i_created/analysis/lead_isolation/frazer_controlled_mix_lead.wav": {
+    "lead_gain_db": -0.1,
+    "lead_polarity_inverted": false,
+    "non_lead_residual_db": -20.54,
+    "interference_gain_db": -29.21
+  },
+  "work/songs/the_things_i_created/analysis/lead_isolation/anvuew_controlled_mix_lead.wav": {
+    "lead_gain_db": -0.17,
+    "lead_polarity_inverted": false,
+    "non_lead_residual_db": -17.6,
+    "interference_gain_db": -28.91
+  }
+}

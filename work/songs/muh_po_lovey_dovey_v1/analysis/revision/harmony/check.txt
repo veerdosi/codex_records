@@ -1,0 +1,11 @@
+Encore ABJ _ Verse 48 99.11 broadband -2.51 speech band 4.91
+Calm _ Verse 144.3 185.94 broadband -2.41 speech band 2.96
+Chaar Diwaari _ Chorus 12 36 broadband -1.69 speech band 6.16
+Chaar Diwaari _ Chorus 108 132 broadband -1.78 speech band 5.21
+Chaar Diwaari _ Chorus 192 204 broadband -2.06 speech band 5.41
+Chaar Diwaari _ Chorus 204 222 broadband -2.73 speech band 1.47
+Edited line span 194.845 197.395 chorus stem silent; backing per quarter-second [-21.8 -24.8 -25.5 -26.8 -29.3 -26.2 -26.9 -31.4 -26.4 -26.9]
+Calm source phrase 60.75 sample offset 0
+Calm source phrase 70 sample offset 0
+Calm source phrase 82 sample offset 0
+Calm source phrase 101 sample offset 0

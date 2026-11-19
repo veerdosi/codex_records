@@ -1,0 +1,5 @@
+- **00:00 - 00:03:** A continuous, high-pitched sine wave tone is heard.
+- **00:03 - 00:05:** The audio cuts to complete silence.
+- **00:05 - 00:08:** The sound abruptly changes to loud, broadband static, similar to white noise.
+- **00:08 - 00:11:** The static stops and is replaced by a series of short, distinct electronic beeps occurring at regular intervals.
+- **00:11 - 00:12:** The beeping stops, and the audio ends in silence.

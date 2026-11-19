@@ -1,0 +1,22 @@
+{
+  "49": {
+    "mean_similarity": 0.9996,
+    "minimum_patch_similarity": 0.999,
+    "score": 4.7295
+  },
+  "61": {
+    "mean_similarity": 0.9998,
+    "minimum_patch_similarity": 0.9997,
+    "score": 4.7309
+  },
+  "121": {
+    "mean_similarity": 0.9997,
+    "minimum_patch_similarity": 0.999,
+    "score": 4.7298
+  },
+  "172": {
+    "mean_similarity": 0.9997,
+    "minimum_patch_similarity": 0.9994,
+    "score": 4.7295
+  }
+}

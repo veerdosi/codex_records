@@ -1,0 +1,23 @@
+{
+  "cigarettes.wav": {
+    "artist": "Juice WRLD",
+    "title": "Cigarettes",
+    "version": "Official Fighting Demons album audio",
+    "url": "https://www.youtube.com/watch?v=YoVViBnCm1g",
+    "role": "refrain and backing"
+  },
+  "wouldnt_leave.wav": {
+    "artist": "Kanye West",
+    "title": "Wouldn't Leave",
+    "version": "Official ye album audio",
+    "url": "https://www.youtube.com/watch?v=nMkXJohQiuQ",
+    "role": "Kanye verse"
+  },
+  "i_love_kanye.wav": {
+    "artist": "Kanye West",
+    "title": "I Love Kanye",
+    "version": "Official The Life Of Pablo album audio",
+    "url": "https://www.youtube.com/watch?v=ch8g-sJb6ow",
+    "role": "pairing trial"
+  }
+}

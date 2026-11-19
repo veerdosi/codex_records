@@ -1,0 +1,646 @@
+<REAPER_PROJECT 0.1 "7.85/macOS-arm64" 0 0
+  TITLE "Production References"
+  SAMPLERATE 44100 1 0
+  TEMPO 120 4 4 0
+  TIMELOCKMODE 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MARKER 1 0.000000000 "Rap phrase reset over a different beat [result]" 0 0 1 B {32740390-C7B9-5266-87E8-6F9C5A18EBDC} 0 1
+  MARKER 2 9.500000000 "Phrase restarts on the full beat" 0 0 1 B {378BF04E-4909-5A9A-B88E-E889A5B854D8} 0 1
+  MARKER 3 22.000000000 "Two lead voices on one backing [result]" 0 0 1 B {8EA68B06-EFBE-51A4-AAC5-ECD7525602EF} 0 1
+  MARKER 4 31.000000000 "Voices interleave" 0 0 1 B {3C2370A0-E412-52DE-85DE-9039CBD48D6E} 0 1
+  MARKER 5 45.000000000 "A shared word connects rock and hip-hop [result]" 0 0 1 B {BF10ECF0-97E4-5167-B204-0167940F7136} 0 1
+  MARKER 6 55.500000000 "Incoming low end arrives" 0 0 1 B {D83D0FBF-9332-544F-B6A8-989D489D3080} 0 1
+  MARKER 7 69.000000000 "Change loop length over an incoming synth [result]" 0 0 1 B {89060F88-0A13-5BEE-9311-C044EF8F47B1} 0 1
+  MARKER 8 81.000000000 "Low end enters beneath the vocal chop" 0 0 1 B {CF56BAE0-C560-58A3-BA94-61E523493336} 0 1
+  MARKER 9 98.000000000 "Vocal jumps while the underlying timeline runs [result]" 0 0 1 B {0E17EBB0-FEFB-5151-849C-A7249C4A9D0D} 0 1
+  MARKER 10 115.000000000 "Bass returns after isolated cue hits" 0 0 1 B {0E830A83-EF37-57E0-A795-9C4130AC7F14} 0 1
+  MARKER 11 128.000000000 "A soul sample becomes a new beat [source excerpt in breakdown]" 0 0 1 B {96220BB0-F3EC-5BA3-AE23-DA180527ACC8} 0 1
+  MARKER 12 146.200000000 "A soul sample becomes a new beat [result]" 0 0 1 B {A37E0417-27FB-5CF2-8673-352C5650816F} 0 1
+  MARKER 13 152.200000000 "Longer sample gives way to short chops" 0 0 1 B {FC42B746-537E-56AB-96CD-CB34E5CEF0DC} 0 1
+  MARKER 14 170.200000000 "A ballad vocal becomes a recurring motif [source]" 0 0 1 B {76FC819D-CEB5-597C-81EB-DD646C537AC9} 0 1
+  MARKER 15 171.700000000 "Source chorus begins" 0 0 1 B {EB06EBAD-4E86-5221-AA51-D7A9B2090D32} 0 1
+  MARKER 16 193.900000000 "A ballad vocal becomes a recurring motif [result]" 0 0 1 B {E1B151AA-2990-58ED-ACED-BA41340D6820} 0 1
+  MARKER 17 206.900000000 "Rap enters over the repeating sample" 0 0 1 B {05C5014F-936E-514D-BB1F-6289A8AB737D} 0 1
+  MARKER 18 217.900000000 "Write a beginning, middle and ending with chops [producer breakdown]" 0 0 1 B {B23BB0A9-BCC5-5D23-8227-30A6C9FDB5BF} 0 1
+  MARKER 19 230.800000000 "Chop sequence follows the explanation" 0 0 1 B {08E0D5C0-9CCA-5B1E-9904-0310BED48BAA} 0 1
+  MARKER 20 248.300000000 "A sampled refrain sets the scene before a verse [source]" 0 0 1 B {C880D67E-8CD5-5112-87AD-EFA786683630} 0 1
+  MARKER 21 272.870998000 "A sampled refrain sets the scene before a verse [result]" 0 0 1 B {ED8302E4-EA17-5C0E-A050-7E2FEBA8DCBD} 0 1
+  MARKER 22 296.763998000 "Annotated refrain boundary before the verse" 0 0 1 B {8074B269-500C-571E-8684-F08507E31924} 0 1
+  MARKER 23 304.410000000 "One vocal performance over a new rhythmic world [original]" 0 0 1 B {61A83890-4682-5CDD-AC71-B90F30494C27} 0 1
+  MARKER 24 316.410000000 "Matching vocal phrase" 0 0 1 B {5A7B25EE-519F-5F4B-9660-6A93405329CA} 0 1
+  MARKER 25 324.610000000 "One vocal performance over a new rhythmic world [remix]" 0 0 1 B {27040CDD-62F3-5936-A855-A151F8668E61} 0 1
+  MARKER 26 338.810000000 "Drop follows the vocal build" 0 0 1 B {2CD33B0F-F5DB-5A86-BC9C-9D0897CA8950} 0 1
+  MARKER 27 352.110000000 "Rock to vintage jazz through arrangement [original]" 0 0 1 B {7F082B14-BC5E-5738-A111-BB524FD695D7} 0 1
+  MARKER 28 364.110000000 "Original chorus entrance" 0 0 1 B {9FD99E8D-8143-5983-9153-A27F45122C4B} 0 1
+  MARKER 29 378.310000000 "Rock to vintage jazz through arrangement [reperformance]" 0 0 1 B {1BC747FC-8FEE-5213-A330-2410EE293FB3} 0 1
+  MARKER 30 387.310000000 "Jazz chorus entrance" 0 0 1 B {79AD5AF8-DCB5-5A4E-A4FF-3E82109DD312} 0 1
+  MARKER 31 405.310000000 "A rock motif carries a rap entrance [JAY-Z source]" 0 0 1 B {F7E95AE0-0973-5C13-8D1F-CBCF6B4B85D3} 0 1
+  MARKER 32 433.510000000 "A rock motif carries a rap entrance [Linkin Park source]" 0 0 1 B {39197B94-0874-5626-96EE-52A96DF6F2BB} 0 1
+  MARKER 33 463.710000000 "A rock motif carries a rap entrance [Collision Course]" 0 0 1 B {195C5D4D-12C8-5542-AEB1-A977A5621CD7} 0 1
+  MARKER 34 474.710000000 "Full low end enters at the rap handoff" 0 0 1 B {F4D4CA8E-38F7-5C20-BE6A-5F807EADD7FF} 0 1
+  MARKER 35 492.710000000 "A guitar lift makes room for the lead rap [Collision Course]" 0 0 1 B {2B072F2C-21B3-5826-BBD9-E5FA74FC56C7} 0 1
+  MARKER 36 501.090000000 "Lead rap phrase starts" 0 0 1 B {9935198C-98B3-5476-917B-4D789489F3E3} 0 1
+  MARKER 37 521.710000000 "The sung hook and rap enter with different accents [hook to verse]" 0 0 1 B {5A338825-40BC-522C-802E-F709F865E81D} 0 1
+  MARKER 38 529.210000000 "Eminem enters before the full drums" 0 0 1 B {3A8D420A-79CB-5682-BB65-FEBC5CBF9F7B} 0 1
+  MARKER 39 540.910000000 "The sung hook and rap enter with different accents [verse to hook]" 0 0 1 B {CC583909-6791-5862-B789-948067F4DEE9} 0 1
+  MARKER 40 548.990000000 "Rihanna takes the lead" 0 0 1 B {6794C19F-6620-5E0F-A43B-CC797D1843F4} 0 1
+  MARKER 41 561.910000000 "A short soul sample supports a steady rap pocket [Stephanie Mills source]" 0 0 1 B {8189FDB7-7EAD-5BCC-8B56-05C4DE2BBA16} 0 1
+  MARKER 42 575.097007000 "A short soul sample supports a steady rap pocket [Metro Boomin and 21 Savage]" 0 0 1 B {3F2C3ABE-DAE9-5473-89A9-B4B73874070E} 0 1
+  MARKER 43 583.797007000 "Bass pulse arrives under the sample" 0 0 1 B {35BDBB4F-B8AE-5083-8D2F-1592F8B2A335} 0 1
+  MARKER 44 605.097007000 "Drums and a soul loop support a hook-to-verse shift [DJ Dahi explains the rhythm]" 0 0 1 B {6AD96D48-4263-5BEC-9045-8ED752AA0711} 0 1
+  MARKER 45 637.297007000 "Drums and a soul loop support a hook-to-verse shift [finished record]" 0 0 1 B {BC351210-F8B8-57B9-A989-4C79F9D8E2B4} 0 1
+  MARKER 46 645.017007000 "First verse begins under the soul loop" 0 0 1 B {BEC02322-C6F9-57CE-B237-8CAE4F95912B} 0 1
+  MARKER 47 663.297007000 "One riff becomes a house loop and then a rap hook [Edwin Birdsong source]" 0 0 1 B {2524F9FA-2B26-5C64-8784-5354EEE89466} 0 1
+  MARKER 48 689.481973000 "One riff becomes a house loop and then a rap hook [Daft Punk]" 0 0 1 B {1A68B36B-D6DD-5529-82CC-B8744CCED2AD} 0 1
+  MARKER 49 702.381973000 "Vocoder phrase comes forward" 0 0 1 B {1A0B79CA-40F6-5C16-AAF7-3BA20C5CAC94} 0 1
+  MARKER 50 717.681973000 "One riff becomes a house loop and then a rap hook [Kanye West]" 0 0 1 B {16BC3EFF-21A4-5D8E-B6B7-D059D00D1038} 0 1
+  MARKER 51 722.361973000 "Kanye takes the lead" 0 0 1 B {CFA7B985-56E4-5375-9FCD-2CE95CCF9B0A} 0 1
+  MARKER 52 750.667007000 "A rock motif travels through house and jungle [Yeah Yeah Yeahs original]" 0 0 1 B {EA25B00F-CA18-5FAF-B298-693F23EAC145} 0 1
+  MARKER 53 763.667007000 "Live low end comes forward" 0 0 1 B {154BCCCC-27FC-5E54-86C8-66E7396DADB5} 0 1
+  MARKER 54 775.867007000 "A rock motif travels through house and jungle [A-Trak radio edit]" 0 0 1 B {A46FD4F8-DE9D-537F-9B6B-6F10A008DB0F} 0 1
+  MARKER 55 784.867007000 "House kick arrives" 0 0 1 B {7E4AA1B1-E2F4-5E1E-A01D-1E4F8442EC69} 0 1
+  MARKER 56 802.067007000 "A rock motif travels through house and jungle [Nia Archives jungle edit]" 0 0 1 B {11CEBAE5-A724-544C-83DA-324D9E4F990E} 0 1
+  MARKER 57 814.067007000 "Jungle drop" 0 0 1 B {4236942D-D1EB-5967-9938-B9D9D290C195} 0 1
+  MARKER 58 830.267007000 "A rock motif travels through house and jungle [A-Trak explains the remix]" 0 0 1 B {8243C284-350A-58AD-A2DA-AFD838C9C492} 0 1
+  MARKER 59 858.887007000 "A-Trak plays the reshaped string chop" 0 0 1 B {0360978C-4651-5DC0-AE46-599A5BB106A7} 0 1
+  <TRACK {B99A4491-623B-5205-AFFB-56B95794DA26}
+    NAME "Vocal handoffs and DJ transitions"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 0.000000000
+      LENGTH 20.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Rap phrase reset over a different beat [result]"
+      VOLPAN 0.4456562484 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 1
+      IGUID {93347B87-8380-570C-9D0E-B4B6AE96CE73}
+      GUID {CA9E47D7-37F4-50CE-885D-1AE6B05D74F6}
+      <SOURCE FLAC
+        FILE "clips/spectre_phrase_reset_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 22.000000000
+      LENGTH 21.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Two lead voices on one backing [result]"
+      VOLPAN 0.3732501578 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 2
+      IGUID {47F47871-D4B4-5FC2-B14A-E9065007BAB8}
+      GUID {899C55AE-2E6E-5675-B82B-37C8AC953CE1}
+      <SOURCE FLAC
+        FILE "clips/earworm_phrase_duet_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 45.000000000
+      LENGTH 22.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A shared word connects rock and hip-hop [result]"
+      VOLPAN 0.4350107606 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 3
+      IGUID {516E7E59-44E9-52FF-9F1F-A4753BE28B79}
+      GUID {61B7F224-B641-5C8E-861C-F590994A6021}
+      <SOURCE FLAC
+        FILE "clips/trayze_wordplay_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 69.000000000
+      LENGTH 27.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Change loop length over an incoming synth [result]"
+      VOLPAN 0.5122712703 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 4
+      IGUID {16755297-EF21-52B5-BDD7-BDAB3B4D26FD}
+      GUID {FBE09820-00C6-5409-B1F6-3DEB7AF4C900}
+      <SOURCE FLAC
+        FILE "clips/crossfader_loop_cut_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 98.000000000
+      LENGTH 28.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Vocal jumps while the underlying timeline runs [result]"
+      VOLPAN 0.4880901012 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 5
+      IGUID {613BF7A4-EED6-5B48-8284-819545A9BEE5}
+      GUID {1F275B8E-620F-5EE8-8F7F-4E9997A085B4}
+      <SOURCE FLAC
+        FILE "clips/crossfader_slip_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 405.310000000
+      LENGTH 27.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif carries a rap entrance [JAY-Z source]"
+      VOLPAN 0.2387811283 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 17
+      IGUID {D86C634A-6516-5C24-AB6A-D8FFF37F6729}
+      GUID {853AAC59-4DC9-5050-B621-4B421B1AA18D}
+      <SOURCE FLAC
+        FILE "clips/collision_course_numb_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 433.510000000
+      LENGTH 29.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif carries a rap entrance [Linkin Park source]"
+      VOLPAN 0.2818382931 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 18
+      IGUID {93C31ACB-A012-5F66-AFE0-E33375728C2F}
+      GUID {BFB234B6-374F-5AD1-9F60-CA854688EF92}
+      <SOURCE FLAC
+        FILE "clips/collision_course_numb_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 463.710000000
+      LENGTH 27.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif carries a rap entrance [Collision Course]"
+      VOLPAN 0.3564511334 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 19
+      IGUID {41739990-D299-5349-BA3D-B55F1E228107}
+      GUID {74E21086-61F0-5D4E-AE8A-C593CE41910A}
+      <SOURCE FLAC
+        FILE "clips/collision_course_numb_03.flac"
+      >
+    >
+    <ITEM
+      POSITION 492.710000000
+      LENGTH 27.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A guitar lift makes room for the lead rap [Collision Course]"
+      VOLPAN 0.3479365076 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 20
+      IGUID {2225FA72-7147-5A88-96EA-5732AA2E27F5}
+      GUID {C7DA249B-BD21-5B1F-8ED0-FCDDCAC3F21F}
+      <SOURCE FLAC
+        FILE "clips/collision_course_dirt_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 521.710000000
+      LENGTH 18.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "The sung hook and rap enter with different accents [hook to verse]"
+      VOLPAN 0.4825029801 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 21
+      IGUID {062CFE42-9131-59A4-A509-2FFB8DA21619}
+      GUID {974B7A53-653B-5984-994B-58A7A08B49D8}
+      <SOURCE FLAC
+        FILE "clips/love_the_way_you_lie_handoffs_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 540.910000000
+      LENGTH 19.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "The sung hook and rap enter with different accents [verse to hook]"
+      VOLPAN 0.3388441561 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 22
+      IGUID {2A437985-1E27-5F7A-8C14-301A386812DB}
+      GUID {FF8A9410-014B-5448-9248-4AC6B2E0C1B1}
+      <SOURCE FLAC
+        FILE "clips/love_the_way_you_lie_handoffs_02.flac"
+      >
+    >
+  >
+  <TRACK {12FADCB7-BA82-55D3-9467-1BA37383A8F7}
+    NAME "Composing from samples"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 128.000000000
+      LENGTH 17.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A soul sample becomes a new beat [source excerpt in breakdown]"
+      VOLPAN 0.7682454557 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 6
+      IGUID {6F7238B8-D9FD-52BA-A097-6B3D22A9EF37}
+      GUID {E93FD05C-8A08-5DC4-A934-285CDCD2C661}
+      <SOURCE FLAC
+        FILE "clips/dilla_sample_recomposition_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 146.200000000
+      LENGTH 22.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A soul sample becomes a new beat [result]"
+      VOLPAN 0.3677053934 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 7
+      IGUID {D42EC558-930E-5979-A05F-3D8075EA18A1}
+      GUID {E180F3A4-A064-53E2-BB6C-22FDA9F3227A}
+      <SOURCE FLAC
+        FILE "clips/dilla_sample_recomposition_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 170.200000000
+      LENGTH 22.500000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A ballad vocal becomes a recurring motif [source]"
+      VOLPAN 0.6546361741 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 8
+      IGUID {5EDCD075-2FEF-5DEC-931C-89CFB348B4AA}
+      GUID {C0FA3F81-F652-557B-BC3D-1B666F6E1E5C}
+      <SOURCE FLAC
+        FILE "clips/kanye_sample_as_hook_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 193.900000000
+      LENGTH 22.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A ballad vocal becomes a recurring motif [result]"
+      VOLPAN 0.3411929116 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 9
+      IGUID {1BEC7CF3-8090-5D50-9451-38E87FCFE0E9}
+      GUID {C2BB4818-EF05-54FE-81AC-DA74FC0D5B3E}
+      <SOURCE FLAC
+        FILE "clips/kanye_sample_as_hook_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 217.900000000
+      LENGTH 28.400000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Write a beginning, middle and ending with chops [producer breakdown]"
+      VOLPAN 0.6894455932 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 10
+      IGUID {F9FA7DF2-8DB8-5A02-AE07-E227ADC835E3}
+      GUID {4544FD3C-668A-5709-AA25-1C2545638656}
+      <SOURCE FLAC
+        FILE "clips/ninth_wonder_sample_form_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 248.300000000
+      LENGTH 23.370998000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A sampled refrain sets the scene before a verse [source]"
+      VOLPAN 0.5193976735 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 11
+      IGUID {4D219081-1B7A-56DF-8CC4-3CA6116F6946}
+      GUID {4758FE0D-1F47-5C0C-8FE4-5D2F985C0629}
+      <SOURCE FLAC
+        FILE "clips/stan_sample_as_scene_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 272.870998000
+      LENGTH 29.539002000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A sampled refrain sets the scene before a verse [result]"
+      VOLPAN 0.3224779319 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 12
+      IGUID {C42184FF-2A08-5F99-BD0D-BA0F516098B2}
+      GUID {C15BDA7E-9755-596E-B9E1-C7C9E3C7EB9E}
+      <SOURCE FLAC
+        FILE "clips/stan_sample_as_scene_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 561.910000000
+      LENGTH 11.987007000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A short soul sample supports a steady rap pocket [Stephanie Mills source]"
+      VOLPAN 2.2464667760 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 23
+      IGUID {ACEB6772-8DC5-587B-8FBF-B196E1BD01B7}
+      GUID {671A2735-653E-59DE-A240-2A1A347B3E6B}
+      <SOURCE FLAC
+        FILE "clips/said_n_done_soul_bed_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 575.097007000
+      LENGTH 28.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A short soul sample supports a steady rap pocket [Metro Boomin and 21 Savage]"
+      VOLPAN 0.3863669771 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 24
+      IGUID {38478E6E-ED47-53CE-8607-D54CBC0FAFEF}
+      GUID {43217EFF-C54F-55D6-B70C-616135E1497A}
+      <SOURCE FLAC
+        FILE "clips/said_n_done_soul_bed_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 605.097007000
+      LENGTH 31.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Drums and a soul loop support a hook-to-verse shift [DJ Dahi explains the rhythm]"
+      VOLPAN 1.0150793666 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 25
+      IGUID {1736D68C-5A87-58B3-BFF9-94607E10A1AE}
+      GUID {D260D5A4-083C-5D68-920C-A053B8CE1F7E}
+      <SOURCE FLAC
+        FILE "clips/dahi_sample_pocket_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 637.297007000
+      LENGTH 24.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Drums and a soul loop support a hook-to-verse shift [finished record]"
+      VOLPAN 0.3585089483 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 26
+      IGUID {83B7527F-11B6-589E-A697-0A52E403CF09}
+      GUID {6EAE6A11-3EED-50CD-92AA-DACF55AB76DD}
+      <SOURCE FLAC
+        FILE "clips/dahi_sample_pocket_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 663.297007000
+      LENGTH 24.984966000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "One riff becomes a house loop and then a rap hook [Edwin Birdsong source]"
+      VOLPAN 0.9005337628 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 27
+      IGUID {453250D6-FC3A-5049-B0D5-F1A2A7B9717E}
+      GUID {B5E37097-D77B-5275-9C2F-B75BD9B9A86D}
+      <SOURCE FLAC
+        FILE "clips/birdsong_daft_kanye_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 689.481973000
+      LENGTH 27.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "One riff becomes a house loop and then a rap hook [Daft Punk]"
+      VOLPAN 0.5314959995 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 28
+      IGUID {7E80E3FE-5582-57AB-AADC-9162FCD025E2}
+      GUID {2AB77208-CA02-5DAD-9053-FC8597B15453}
+      <SOURCE FLAC
+        FILE "clips/birdsong_daft_kanye_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 717.681973000
+      LENGTH 30.985034000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "One riff becomes a house loop and then a rap hook [Kanye West]"
+      VOLPAN 0.6614545375 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 29
+      IGUID {1AD237CD-D995-5ECD-A811-6E1E3029D8D1}
+      GUID {8BB59CE8-DD7F-5700-88CF-C83AF784E3A3}
+      <SOURCE FLAC
+        FILE "clips/birdsong_daft_kanye_03.flac"
+      >
+    >
+  >
+  <TRACK {CD51CC54-A952-5139-98FA-FAB56742211A}
+    NAME "New genres and backing"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 304.410000000
+      LENGTH 19.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "One vocal performance over a new rhythmic world [original]"
+      VOLPAN 0.4971643737 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 13
+      IGUID {6B880E18-955B-5CEE-8D19-C9F7D52B1C8D}
+      GUID {E35E3894-E22A-55CF-93C9-31FB37ABAB2C}
+      <SOURCE FLAC
+        FILE "clips/flume_same_vocal_new_genre_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 324.610000000
+      LENGTH 25.500000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "One vocal performance over a new rhythmic world [remix]"
+      VOLPAN 0.3144126420 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 14
+      IGUID {E392680A-6649-5E45-A13A-F369D5CFEF2E}
+      GUID {5B3AB50E-EEDB-5568-9DA9-EDF0A3405CEF}
+      <SOURCE FLAC
+        FILE "clips/flume_same_vocal_new_genre_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 352.110000000
+      LENGTH 25.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Rock to vintage jazz through arrangement [original]"
+      VOLPAN 0.4135233143 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 15
+      IGUID {63914B01-A2EA-5783-9765-9BE0599DC1A7}
+      GUID {7D73F7D2-DA0A-5B2D-9557-47ABB07E05A9}
+      <SOURCE FLAC
+        FILE "clips/creep_jazz_arrangement_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 378.310000000
+      LENGTH 25.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Rock to vintage jazz through arrangement [reperformance]"
+      VOLPAN 0.5152286446 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 16
+      IGUID {07064956-43EB-5CF0-8150-E86786D5FCC6}
+      GUID {6486A2BF-901C-5843-83E6-5A28EB4E8B97}
+      <SOURCE FLAC
+        FILE "clips/creep_jazz_arrangement_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 750.667007000
+      LENGTH 24.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif travels through house and jungle [Yeah Yeah Yeahs original]"
+      VOLPAN 0.5681983916 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 30
+      IGUID {8DD498B3-6ABF-5116-BABC-9C3866589AEA}
+      GUID {46C69194-035C-555C-82DB-305B3804493C}
+      <SOURCE FLAC
+        FILE "clips/heads_will_roll_genre_chain_01.flac"
+      >
+    >
+    <ITEM
+      POSITION 775.867007000
+      LENGTH 25.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif travels through house and jungle [A-Trak radio edit]"
+      VOLPAN 0.3228494122 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 31
+      IGUID {E65E6A12-34AD-585D-9D8F-6A2F6FA8E96D}
+      GUID {3AA6AD03-0483-52C0-96FB-41340875D092}
+      <SOURCE FLAC
+        FILE "clips/heads_will_roll_genre_chain_02.flac"
+      >
+    >
+    <ITEM
+      POSITION 802.067007000
+      LENGTH 27.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif travels through house and jungle [Nia Archives jungle edit]"
+      VOLPAN 0.3372873087 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 32
+      IGUID {3388579C-AEC1-501A-9822-533D19375A50}
+      GUID {EF94A5E4-714B-54C0-81B8-AECC014C8825}
+      <SOURCE FLAC
+        FILE "clips/heads_will_roll_genre_chain_03.flac"
+      >
+    >
+    <ITEM
+      POSITION 830.267007000
+      LENGTH 49.000000000
+      LOOP 0
+      FADEIN 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0.005 0 1 0 0 0 1 0 0 1 0 0
+      NAME "A rock motif travels through house and jungle [A-Trak explains the remix]"
+      VOLPAN 0.6039486294 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 33
+      IGUID {C2BA890B-5922-5206-9920-C5B4D71BD5F8}
+      GUID {72F91E81-9BCF-57BD-BB6F-E4FA6A464EDA}
+      <SOURCE FLAC
+        FILE "clips/heads_will_roll_genre_chain_04.flac"
+      >
+    >
+  >
+>

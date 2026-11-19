@@ -1,0 +1,352 @@
+[
+  {
+    "kind": "voice",
+    "at": 14,
+    "expect": "Yes",
+    "raw": "",
+    "odds": -2.786029100418091
+  },
+  {
+    "kind": "voice",
+    "at": 14,
+    "expect": "No",
+    "raw": "",
+    "odds": -4.104650020599365
+  },
+  {
+    "kind": "voice",
+    "at": 27,
+    "expect": "Yes",
+    "raw": "",
+    "odds": -3.8411595821380615
+  },
+  {
+    "kind": "voice",
+    "at": 27,
+    "expect": "No",
+    "raw": "",
+    "odds": -4.026469707489014
+  },
+  {
+    "kind": "voice",
+    "at": 39,
+    "expect": "Yes",
+    "raw": "",
+    "odds": -3.2103066444396973
+  },
+  {
+    "kind": "voice",
+    "at": 39,
+    "expect": "No",
+    "raw": "",
+    "odds": -3.303718090057373
+  },
+  {
+    "kind": "voice",
+    "at": 65,
+    "expect": "Yes",
+    "raw": "",
+    "odds": -0.6585264205932617
+  },
+  {
+    "kind": "voice",
+    "at": 65,
+    "expect": "No",
+    "raw": "",
+    "odds": -4.005899906158447
+  },
+  {
+    "kind": "voice",
+    "at": 81,
+    "expect": "Yes",
+    "raw": "",
+    "odds": 0.12534523010253906
+  },
+  {
+    "kind": "voice",
+    "at": 81,
+    "expect": "No",
+    "raw": "",
+    "odds": -3.972928047180176
+  },
+  {
+    "kind": "voice",
+    "at": 106,
+    "expect": "Yes",
+    "raw": "",
+    "odds": -1.6820878982543945
+  },
+  {
+    "kind": "voice",
+    "at": 106,
+    "expect": "No",
+    "raw": "",
+    "odds": -4.644118785858154
+  },
+  {
+    "kind": "voice",
+    "at": 125,
+    "expect": "Yes",
+    "raw": "",
+    "odds": 0.571500301361084
+  },
+  {
+    "kind": "voice",
+    "at": 125,
+    "expect": "No",
+    "raw": "",
+    "odds": -4.6357316970825195
+  },
+  {
+    "kind": "voice",
+    "at": 152,
+    "expect": "Yes",
+    "raw": "",
+    "odds": -0.25351428985595703
+  },
+  {
+    "kind": "voice",
+    "at": 152,
+    "expect": "No",
+    "raw": "",
+    "odds": -4.968506813049316
+  },
+  {
+    "kind": "extremes",
+    "song": "ColdStar",
+    "higher": -0.5553054809570312,
+    "lower": -1.386855125427246,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "GoodTime",
+    "higher": -1.4810481071472168,
+    "lower": -1.6844048500061035,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "IdLikeToKnow",
+    "higher": 0.9954638481140137,
+    "lower": -1.1646757125854492,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "InTheMeantime",
+    "higher": 3.261218547821045,
+    "lower": 0.4943985939025879,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "Lolita",
+    "higher": -2.227405071258545,
+    "lower": -1.6157379150390625,
+    "correct": false
+  },
+  {
+    "kind": "extremes",
+    "song": "Lush",
+    "higher": -0.07031631469726562,
+    "lower": 2.1721549034118652,
+    "correct": false
+  },
+  {
+    "kind": "extremes",
+    "song": "NewSkin",
+    "higher": -0.8588476181030273,
+    "lower": -1.4211616516113281,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "NoPrize",
+    "higher": 0.4532604217529297,
+    "lower": -2.7477195262908936,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "OldTree",
+    "higher": -0.5897312164306641,
+    "lower": 0.5571703910827637,
+    "correct": false
+  },
+  {
+    "kind": "extremes",
+    "song": "PouringRoom",
+    "higher": -0.7819499969482422,
+    "lower": -2.08168363571167,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "RightOnTime",
+    "higher": -2.6312928199768066,
+    "lower": -2.9775381088256836,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "SeaOfLeaves",
+    "higher": 2.8244106769561768,
+    "lower": 1.340087890625,
+    "correct": true
+  },
+  {
+    "kind": "extremes",
+    "song": "Vermont",
+    "higher": 0.71331787109375,
+    "lower": 0.9845561981201172,
+    "correct": false
+  },
+  {
+    "kind": "extremes",
+    "song": "YouAndMeAndTheRadio",
+    "higher": 1.8716845512390137,
+    "lower": 1.7301783561706543,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "ColdStar",
+    "higher": 0.0028786659240722656,
+    "lower": -0.6927728652954102,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "GoodTime",
+    "higher": -2.4857497215270996,
+    "lower": -1.5292153358459473,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "HighBloodPressure",
+    "higher": 0.017477989196777344,
+    "lower": -0.2731189727783203,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "IdLikeToKnow",
+    "higher": -1.1749725341796875,
+    "lower": 0.009784698486328125,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "InTheMeantime",
+    "higher": 1.3569855690002441,
+    "lower": 1.6007723808288574,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "LeadMe",
+    "higher": -0.04653310775756836,
+    "lower": 0.6221261024475098,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "Lolita",
+    "higher": -2.033113479614258,
+    "lower": -2.1114540100097656,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "Lush",
+    "higher": -0.091339111328125,
+    "lower": 0.4743642807006836,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "MyFunnyValentine",
+    "higher": -2.506028175354004,
+    "lower": -2.9835777282714844,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "NewSkin",
+    "higher": 1.3168163299560547,
+    "lower": 0.10643529891967773,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "NoPrize",
+    "higher": -0.8857002854347229,
+    "lower": -1.2461776733398438,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "NotAlone",
+    "higher": 2.126974105834961,
+    "lower": -0.705021858215332,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "OldTree",
+    "higher": -0.26210880279541016,
+    "lower": -0.5362048149108887,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "PouringRoom",
+    "higher": -1.1378049850463867,
+    "lower": -0.5549860000610352,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "RedToBlue",
+    "higher": 3.5926032066345215,
+    "lower": 2.3986377716064453,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "RightOnTime",
+    "higher": -3.661191940307617,
+    "lower": -3.6399264335632324,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "SeaOfLeaves",
+    "higher": 1.6167068481445312,
+    "lower": 2.999894618988037,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "UnderACoveredSky",
+    "higher": 0.04920482635498047,
+    "lower": -0.3475065231323242,
+    "correct": true
+  },
+  {
+    "kind": "closer",
+    "song": "Vermont",
+    "higher": 0.10562992095947266,
+    "lower": 1.202408790588379,
+    "correct": false
+  },
+  {
+    "kind": "closer",
+    "song": "YouAndMeAndTheRadio",
+    "higher": 2.3763065338134766,
+    "lower": 2.8365702629089355,
+    "correct": false
+  }
+]

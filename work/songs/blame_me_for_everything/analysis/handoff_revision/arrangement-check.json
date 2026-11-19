@@ -1,0 +1,39 @@
+{
+  "sections": {
+    "Low piano opening": 0.0,
+    "Runaway piano reveal": 5.5172,
+    "Kanye | Sung setup": 16.5517,
+    "First chorus": 38.6207,
+    "Guitar answers": 60.6896,
+    "21 Savage | Creepin": 66.2069,
+    "Piano turnaround": 96.5517,
+    "Kanye | Opening Runaway verse": 99.3103,
+    "Instrumental lift": 121.3793,
+    "Kanye | Sung reprise": 132.4138,
+    "Final chorus": 154.4827,
+    "Veer | Original piano outro": 176.5517
+  },
+  "length": 199.6207029478458,
+  "presence": {
+    "Savage": [
+      66.026,
+      96.041,
+      1.5
+    ],
+    "Kanye pre-chorus": [
+      16.552,
+      38.621,
+      1.5
+    ],
+    "Kanye first hook": [
+      38.621,
+      60.69,
+      1.88
+    ],
+    "Kanye reprise": [
+      132.414,
+      154.483,
+      1.83
+    ]
+  }
+}

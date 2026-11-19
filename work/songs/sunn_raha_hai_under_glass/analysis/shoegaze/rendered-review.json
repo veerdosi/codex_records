@@ -1,0 +1,200 @@
+{
+  "guitar intro": {
+    "start_s": 0.0,
+    "end_s": 11.239,
+    "vocal_midband_margin_db_p10_median_before_after": null,
+    "new_backing_rms_db": -26.91
+  },
+  "verse": {
+    "start_s": 11.239,
+    "end_s": 33.716,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        0.77,
+        5.72
+      ],
+      [
+        5.72,
+        13.77
+      ]
+    ],
+    "new_backing_rms_db": -26.54
+  },
+  "verse rise": {
+    "start_s": 33.716,
+    "end_s": 50.574,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        1.38,
+        8.59
+      ],
+      [
+        5.71,
+        16.75
+      ]
+    ],
+    "new_backing_rms_db": -24.52
+  },
+  "prechorus": {
+    "start_s": 50.574,
+    "end_s": 73.051,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        -0.48,
+        4.46
+      ],
+      [
+        5.63,
+        10.81
+      ]
+    ],
+    "new_backing_rms_db": -24.29
+  },
+  "prechorus lift": {
+    "start_s": 73.051,
+    "end_s": 84.289,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        0.83,
+        4.08
+      ],
+      [
+        3.49,
+        8.47
+      ]
+    ],
+    "new_backing_rms_db": -22.54
+  },
+  "chorus": {
+    "start_s": 84.289,
+    "end_s": 94.123,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        -2.41,
+        3.59
+      ],
+      [
+        -1.06,
+        5.6
+      ]
+    ],
+    "new_backing_rms_db": -18.53,
+    "kick_offset_from_grid_ms": [
+      10.1,
+      13.1,
+      13.6,
+      11.6
+    ],
+    "bass_target_offset_cents": [
+      8.1,
+      8.1,
+      8.1,
+      8.1,
+      6.8,
+      6.8,
+      6.8,
+      0.4
+    ]
+  },
+  "guitar interlude": {
+    "start_s": 94.123,
+    "end_s": 102.552,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        -1.56,
+        -1.56
+      ],
+      [
+        1.8,
+        1.8
+      ]
+    ],
+    "new_backing_rms_db": -26.85
+  },
+  "verse2": {
+    "start_s": 102.552,
+    "end_s": 122.22,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        1.72,
+        9.58
+      ],
+      [
+        6.35,
+        11.87
+      ]
+    ],
+    "new_backing_rms_db": -26.26
+  },
+  "lift": {
+    "start_s": 122.22,
+    "end_s": 139.077,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        3.05,
+        8.09
+      ],
+      [
+        6.68,
+        15.5
+      ]
+    ],
+    "new_backing_rms_db": -24.37
+  },
+  "last prechorus": {
+    "start_s": 139.077,
+    "end_s": 150.316,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        0.65,
+        4.6
+      ],
+      [
+        3.47,
+        7.64
+      ]
+    ],
+    "new_backing_rms_db": -22.4
+  },
+  "chorus2": {
+    "start_s": 150.316,
+    "end_s": 171.388,
+    "vocal_midband_margin_db_p10_median_before_after": [
+      [
+        -1.13,
+        3.83
+      ],
+      [
+        -0.74,
+        5.02
+      ]
+    ],
+    "new_backing_rms_db": -18.24,
+    "kick_offset_from_grid_ms": [
+      12.8,
+      17.9,
+      4.1,
+      10.7,
+      7.3,
+      5.0,
+      -1.3,
+      11.2
+    ],
+    "bass_target_offset_cents": [
+      8.1,
+      8.1,
+      3.4,
+      3.4,
+      6.8,
+      6.8,
+      3.4,
+      -3.5
+    ]
+  },
+  "outro": {
+    "start_s": 171.388,
+    "end_s": 179.817,
+    "vocal_midband_margin_db_p10_median_before_after": null,
+    "new_backing_rms_db": -23.03
+  }
+}

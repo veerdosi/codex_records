@@ -1,0 +1,86 @@
+
+Rubber Band
+An audio time-stretching and pitch-shifting library and utility program.
+Copyright 2007-2024 Particular Programs Ltd.
+
+   Usage: rubberband [options] <infile.wav> <outfile.wav>
+
+You must specify at least one of the following time and pitch ratio options:
+
+  -t<X>, --time <X>       Stretch to X times original duration, or
+  -T<X>, --tempo <X>      Change tempo by multiple X (same as --time 1/X), or
+  -T<X>, --tempo <X>:<Y>  Change tempo from X to Y (same as --time X/Y), or
+  -D<X>, --duration <X>   Stretch or squash to make output file X seconds long
+
+  -p<X>, --pitch <X>      Raise pitch by X semitones, or
+  -f<X>, --frequency <X>  Change frequency by multiple X
+
+The following options provide ways of making the time and frequency ratios
+change during the audio:
+
+  -M<F>, --timemap <F>    Use file F as the source for time map
+
+  A time map (or key-frame map) file contains a series of lines, each with two
+  sample frame numbers separated by a single space. These are source and
+  target frames for fixed time points within the audio data, defining a varying
+  stretch factor through the audio. When supplying a time map you must specify
+  an overall stretch factor using -t, -T, or -D as well, to determine the
+  total output duration.
+
+         --pitchmap <F>   Use file F as the source for pitch map
+
+  A pitch map file contains a series of lines, each with two values: the input
+  sample frame number and a pitch offset in semitones, separated by a single
+  space. These specify a varying pitch factor through the audio. The offsets
+  are all relative to an initial offset specified by the pitch or frequency
+  option, or relative to no shift if neither was specified. Offsets are
+  not cumulative. This option implies realtime mode (-R) and also enables a
+  high-consistency pitch shifting mode, appropriate for dynamic pitch changes.
+  Because of the use of realtime mode, the overall duration will not be exact.
+
+         --freqmap <F>    Use file F as the source for frequency map
+
+  A frequency map file is like a pitch map, except that its second column
+  lists frequency multipliers rather than pitch offsets (like the difference
+  between pitch and frequency options above).
+
+The following options affect the sound manipulation and quality:
+
+  -2,    --fast           Use the R2 (faster) engine
+
+  This is the default (for backward compatibility) when this tool is invoked
+  as "rubberband". It was the only engine available in versions prior to v3.0.
+
+  -3,    --fine           Use the R3 (finer) engine
+
+  This is the default when this tool is invoked as "rubberband-r3". It almost
+  always produces better results than the R2 engine, but with significantly
+  higher CPU load.
+
+  -F,    --formant        Enable formant preservation when pitch shifting
+
+  This option attempts to keep the formant envelope unchanged when changing
+  the pitch, retaining the original timbre of vocals and instruments in a
+  recognisable way.
+
+         --centre-focus   Preserve focus of centre material in stereo
+
+  This option assumes that any 2-channel audio files are stereo and treats
+  them in a way that improves focus of the centre material at a small expense
+  in quality of the individual channels. In v3.2+ (and R2) this also
+  preserves mono compatibility, which the default options do not always.
+
+  -c<N>, --crisp <N>      Crispness (N = 0,1,2,3,4,5,6); default 5
+
+  This option only has an effect when using the R2 (faster) engine. See
+  the full help for details of the different levels.
+
+The following options are for output control and administration:
+
+  -q,    --quiet          Suppress progress output
+  -V,    --version        Show version number and exit
+  -h,    --help           Show the normal help output
+  -H,    --full-help      Show the full help output
+
+Numerous other options are available, mostly for tuning the behaviour of
+the R2 engine. Run "rubberband --full-help" for details.

@@ -1,0 +1,28 @@
+stream|codec_name=pcm_s24le|sample_rate=44100|channels=2|bit_rate=2116800
+format|duration=84.000000|tag:album=deus complex|tag:title=50 Calls|tag:artist=Kanye West, Juice WRLD & Veer
+{
+	"input_i" : "-18.24",
+	"input_tp" : "-4.08",
+	"input_lra" : "9.40",
+	"input_thresh" : "-28.55",
+	"output_i" : "-23.35",
+	"output_tp" : "-9.02",
+	"output_lra" : "7.70",
+	"output_thresh" : "-33.48",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.65"
+}
+stream|codec_name=mp3|sample_rate=44100|channels=2|bit_rate=320000
+format|duration=84.000000|tag:album=deus complex|tag:title=50 Calls|tag:artist=Kanye West, Juice WRLD & Veer
+{
+	"input_i" : "-14.27",
+	"input_tp" : "-1.52",
+	"input_lra" : "9.50",
+	"input_thresh" : "-24.58",
+	"output_i" : "-23.35",
+	"output_tp" : "-9.03",
+	"output_lra" : "7.70",
+	"output_thresh" : "-33.48",
+	"normalization_type" : "dynamic",
+	"target_offset" : "-0.65"
+}

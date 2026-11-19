@@ -1,0 +1,233 @@
+{
+  "clips/spectre_phrase_reset_01.flac": {
+    "duration_seconds": 20.0,
+    "integrated_lufs": -10.98,
+    "true_peak_dbtp": 0.34,
+    "audition_gain_db": -7.02,
+    "session_start_seconds": 0.0
+  },
+  "clips/earworm_phrase_duet_01.flac": {
+    "duration_seconds": 21.0,
+    "integrated_lufs": -9.44,
+    "true_peak_dbtp": -0.02,
+    "audition_gain_db": -8.56,
+    "session_start_seconds": 22.0
+  },
+  "clips/trayze_wordplay_01.flac": {
+    "duration_seconds": 22.0,
+    "integrated_lufs": -10.77,
+    "true_peak_dbtp": 0.88,
+    "audition_gain_db": -7.23,
+    "session_start_seconds": 45.0
+  },
+  "clips/crossfader_loop_cut_01.flac": {
+    "duration_seconds": 27.0,
+    "integrated_lufs": -12.19,
+    "true_peak_dbtp": -0.83,
+    "audition_gain_db": -5.81,
+    "session_start_seconds": 69.0
+  },
+  "clips/crossfader_slip_01.flac": {
+    "duration_seconds": 28.0,
+    "integrated_lufs": -11.77,
+    "true_peak_dbtp": 0.15,
+    "audition_gain_db": -6.23,
+    "session_start_seconds": 98.0
+  },
+  "clips/dilla_sample_recomposition_01.flac": {
+    "duration_seconds": 17.0,
+    "integrated_lufs": -15.71,
+    "true_peak_dbtp": -1.08,
+    "audition_gain_db": -2.29,
+    "session_start_seconds": 128.0
+  },
+  "clips/dilla_sample_recomposition_02.flac": {
+    "duration_seconds": 22.0,
+    "integrated_lufs": -9.31,
+    "true_peak_dbtp": 0.59,
+    "audition_gain_db": -8.69,
+    "session_start_seconds": 146.2
+  },
+  "clips/kanye_sample_as_hook_01.flac": {
+    "duration_seconds": 22.5,
+    "integrated_lufs": -14.32,
+    "true_peak_dbtp": -1.68,
+    "audition_gain_db": -3.68,
+    "session_start_seconds": 170.2
+  },
+  "clips/kanye_sample_as_hook_02.flac": {
+    "duration_seconds": 22.0,
+    "integrated_lufs": -8.66,
+    "true_peak_dbtp": 0.59,
+    "audition_gain_db": -9.34,
+    "session_start_seconds": 193.9
+  },
+  "clips/ninth_wonder_sample_form_01.flac": {
+    "duration_seconds": 28.4,
+    "integrated_lufs": -14.77,
+    "true_peak_dbtp": -1.72,
+    "audition_gain_db": -3.23,
+    "session_start_seconds": 217.9
+  },
+  "clips/stan_sample_as_scene_01.flac": {
+    "duration_seconds": 23.370998,
+    "integrated_lufs": -12.31,
+    "true_peak_dbtp": 0.11,
+    "audition_gain_db": -5.69,
+    "session_start_seconds": 248.3
+  },
+  "clips/stan_sample_as_scene_02.flac": {
+    "duration_seconds": 29.539002,
+    "integrated_lufs": -8.17,
+    "true_peak_dbtp": 0.53,
+    "audition_gain_db": -9.83,
+    "session_start_seconds": 272.870998
+  },
+  "clips/flume_same_vocal_new_genre_01.flac": {
+    "duration_seconds": 19.0,
+    "integrated_lufs": -11.93,
+    "true_peak_dbtp": 0.27,
+    "audition_gain_db": -6.07,
+    "session_start_seconds": 304.41
+  },
+  "clips/flume_same_vocal_new_genre_02.flac": {
+    "duration_seconds": 25.5,
+    "integrated_lufs": -7.95,
+    "true_peak_dbtp": 1.01,
+    "audition_gain_db": -10.05,
+    "session_start_seconds": 324.61
+  },
+  "clips/creep_jazz_arrangement_01.flac": {
+    "duration_seconds": 25.0,
+    "integrated_lufs": -10.33,
+    "true_peak_dbtp": 0.23,
+    "audition_gain_db": -7.67,
+    "session_start_seconds": 352.11
+  },
+  "clips/creep_jazz_arrangement_02.flac": {
+    "duration_seconds": 25.0,
+    "integrated_lufs": -12.24,
+    "true_peak_dbtp": 0.08,
+    "audition_gain_db": -5.76,
+    "session_start_seconds": 378.31
+  },
+  "clips/collision_course_numb_01.flac": {
+    "duration_seconds": 27.0,
+    "integrated_lufs": -5.56,
+    "true_peak_dbtp": 0.6,
+    "audition_gain_db": -12.44,
+    "session_start_seconds": 405.31
+  },
+  "clips/collision_course_numb_02.flac": {
+    "duration_seconds": 29.0,
+    "integrated_lufs": -7.0,
+    "true_peak_dbtp": 0.35,
+    "audition_gain_db": -11.0,
+    "session_start_seconds": 433.51
+  },
+  "clips/collision_course_numb_03.flac": {
+    "duration_seconds": 27.0,
+    "integrated_lufs": -9.04,
+    "true_peak_dbtp": 0.04,
+    "audition_gain_db": -8.96,
+    "session_start_seconds": 463.71
+  },
+  "clips/collision_course_dirt_01.flac": {
+    "duration_seconds": 27.0,
+    "integrated_lufs": -8.83,
+    "true_peak_dbtp": 0.22,
+    "audition_gain_db": -9.17,
+    "session_start_seconds": 492.71
+  },
+  "clips/love_the_way_you_lie_handoffs_01.flac": {
+    "duration_seconds": 18.0,
+    "integrated_lufs": -11.67,
+    "true_peak_dbtp": 0.31,
+    "audition_gain_db": -6.33,
+    "session_start_seconds": 521.71
+  },
+  "clips/love_the_way_you_lie_handoffs_02.flac": {
+    "duration_seconds": 19.0,
+    "integrated_lufs": -8.6,
+    "true_peak_dbtp": 0.76,
+    "audition_gain_db": -9.4,
+    "session_start_seconds": 540.91
+  },
+  "clips/said_n_done_soul_bed_01.flac": {
+    "duration_seconds": 11.987007,
+    "integrated_lufs": -25.03,
+    "true_peak_dbtp": -12.02,
+    "audition_gain_db": 7.03,
+    "session_start_seconds": 561.91
+  },
+  "clips/said_n_done_soul_bed_02.flac": {
+    "duration_seconds": 28.0,
+    "integrated_lufs": -9.74,
+    "true_peak_dbtp": 0.16,
+    "audition_gain_db": -8.26,
+    "session_start_seconds": 575.097007
+  },
+  "clips/dahi_sample_pocket_01.flac": {
+    "duration_seconds": 31.0,
+    "integrated_lufs": -18.13,
+    "true_peak_dbtp": -2.64,
+    "audition_gain_db": 0.13,
+    "session_start_seconds": 605.097007
+  },
+  "clips/dahi_sample_pocket_02.flac": {
+    "duration_seconds": 24.0,
+    "integrated_lufs": -9.09,
+    "true_peak_dbtp": 0.05,
+    "audition_gain_db": -8.91,
+    "session_start_seconds": 637.297007
+  },
+  "clips/birdsong_daft_kanye_01.flac": {
+    "duration_seconds": 24.984966,
+    "integrated_lufs": -17.09,
+    "true_peak_dbtp": -0.23,
+    "audition_gain_db": -0.91,
+    "session_start_seconds": 663.297007
+  },
+  "clips/birdsong_daft_kanye_02.flac": {
+    "duration_seconds": 27.0,
+    "integrated_lufs": -12.51,
+    "true_peak_dbtp": 0.53,
+    "audition_gain_db": -5.49,
+    "session_start_seconds": 689.481973
+  },
+  "clips/birdsong_daft_kanye_03.flac": {
+    "duration_seconds": 30.985034,
+    "integrated_lufs": -14.41,
+    "true_peak_dbtp": -3.77,
+    "audition_gain_db": -3.59,
+    "session_start_seconds": 717.681973
+  },
+  "clips/heads_will_roll_genre_chain_01.flac": {
+    "duration_seconds": 24.0,
+    "integrated_lufs": -13.09,
+    "true_peak_dbtp": 0.68,
+    "audition_gain_db": -4.91,
+    "session_start_seconds": 750.667007
+  },
+  "clips/heads_will_roll_genre_chain_02.flac": {
+    "duration_seconds": 25.0,
+    "integrated_lufs": -8.18,
+    "true_peak_dbtp": 0.54,
+    "audition_gain_db": -9.82,
+    "session_start_seconds": 775.867007
+  },
+  "clips/heads_will_roll_genre_chain_03.flac": {
+    "duration_seconds": 27.0,
+    "integrated_lufs": -8.56,
+    "true_peak_dbtp": 0.43,
+    "audition_gain_db": -9.44,
+    "session_start_seconds": 802.067007
+  },
+  "clips/heads_will_roll_genre_chain_04.flac": {
+    "duration_seconds": 49.0,
+    "integrated_lufs": -13.62,
+    "true_peak_dbtp": 1.23,
+    "audition_gain_db": -4.38,
+    "session_start_seconds": 830.267007
+  }
+}

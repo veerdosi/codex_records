@@ -1,0 +1,16 @@
+{
+  "bpm": 95,
+  "kanye_source_start": 170.61,
+  "travis_source_bar": 123.78947368421052,
+  "first_handoff": 22.736842105263158,
+  "travis_pickup": 23.607368421052627,
+  "string_turn": 50.526315789473685,
+  "string_start": 181.89473684210526,
+  "duration": 74.5915873015873,
+  "source_stem_alignment": [
+    0.9999999818212213,
+    0.9999999875748972
+  ],
+  "integrated_lufs": "-14.20",
+  "true_peak": "-2.39"
+}

@@ -1,0 +1,46 @@
+{
+  "Visualizer re-use": {
+    "presence_and_air_db": [
+      -8.17,
+      -15.36
+    ],
+    "between_line_residual_db": -14.46
+  },
+  "Album re-separated": {
+    "presence_and_air_db": [
+      -8.05,
+      -15.42
+    ],
+    "between_line_residual_db": -22.24,
+    "mix_matched_presence_and_air_db": [
+      -1.69,
+      -10.47
+    ]
+  },
+  "Official instrumental subtraction": {
+    "presence_and_air_db": [
+      -8.01,
+      -14.45
+    ],
+    "between_line_residual_db": -13.57
+  },
+  "Reference-guided separation": {
+    "presence_and_air_db": [
+      -7.17,
+      -14.05
+    ],
+    "between_line_residual_db": -22.0
+  },
+  "Current mix vocal": {
+    "presence_and_air_db": [
+      -1.49,
+      -10.1
+    ]
+  },
+  "Reference-guided": {
+    "mix_matched_presence_and_air_db": [
+      -0.85,
+      -9.18
+    ]
+  }
+}

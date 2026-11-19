@@ -1,0 +1,33 @@
+duration 228.0 peak -5.083179882014443 render-stem sum null -128.9313729110381
+Intro | Veer synths and Farebi rhythm 0 12 mix -22.4 bed -23.9 voice -32.2 original -29.6
+Chaar Diwaari | Chorus I 12 36 mix -18.5 bed -20.5 voice -22.6 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   12 -2.8 4.0
+   24 -1.6 7.0
+Farebi | Post-chorus groove 36 48 mix -20.2 bed -20.2 voice -84.5 original -180.7
+Encore ABJ | Original cadence 48 99 mix -19.2 bed -21.1 voice -23.7 original -180.7
+Instrumental turnaround 99 108 mix -19.9 bed -20.3 voice -30.0 original -43.8
+Chaar Diwaari | Chorus II 108 132 mix -18.6 bed -20.7 voice -22.8 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   108 -2.4 4.6
+   120 -1.9 5.0
+Farebi | Drum and brass lead-in 132 144 mix -20.6 bed -20.6 voice -180.7 original -180.7
+Calm | Brass entrance 144 186 mix -19.1 bed -21.1 voice -23.6 original -180.7
+Instrumental turnaround 186 192 mix -21.7 bed -22.4 voice -30.0 original -180.7
+Chaar Diwaari | Final chorus 192 222 mix -18.8 bed -20.6 voice -23.6 original -180.7
+   4-bar voice-to-bed | full; 650Hz-3.7kHz
+   192 -3.0 4.4
+   204 -3.2 1.2
+   216 -2.6 1.5
+Coda 222 228 mix -24.6 bed -24.7 voice -180.7 original -41.6
+Handoff: peak 250ms before; peak after; largest single sample slope nearby
+Chaar Diwaari | Chorus I 12 -10.9 -7.9 -26.1
+Farebi | Post-chorus groove 36 -10.9 -9.2 -22.7
+Encore ABJ | Original cadence 48 -15.9 -8.5 -21.8
+Instrumental turnaround 99 -7.3 -5.8 -20.1
+Chaar Diwaari | Chorus II 108 -11.2 -8.4 -27.0
+Farebi | Drum and brass lead-in 132 -10.8 -9.6 -22.7
+Calm | Brass entrance 144 -16.0 -11.3 -40.4
+Instrumental turnaround 186 -8.7 -12.0 -22.7
+Chaar Diwaari | Final chorus 192 -18.2 -8.1 -24.0
+Coda 222 -7.1 -11.7 -30.0

@@ -1,0 +1,803 @@
+<REAPER_PROJECT 0.1 "7.85/macOS-arm64" 1794431352 0
+  TITLE "Blame Me for Everything"
+  AUTHOR "Kanye West, 21 Savage & Veer"
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0
+  ZOOM 100 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "Blame Me for Everything.mp3"
+  RENDER_FMT 0 2 0
+  RENDER_1X 0 0
+  RENDER_RANGE 0 0 202.379319727891 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 512
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 193 0.194984 0.836566 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  <RENDER_METADATA
+    TAG ID3:TALB "deus complex"
+    TAG ID3:TIT2 "Blame Me for Everything"
+    TAG ID3:TPE1 "Kanye West, 21 Savage & Veer"
+    TAG INFO:IART "Kanye West, 21 Savage & Veer"
+    TAG INFO:INAM "Blame Me for Everything"
+    TAG INFO:IPRD "deus complex"
+    TAG VORBIS:ALBUM "deus complex"
+    TAG VORBIS:ARTIST "Kanye West, 21 Savage & Veer"
+    TAG VORBIS:TITLE "Blame Me for Everything"
+  >
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 1 0
+  <RENDER_CFG
+    bDNwbUABAAAAAAAABQAAAP////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 87 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {135456B7-9134-4247-8DEF-2CC8D5B4FB3C}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {9DB341FD-DA2E-2143-A92E-D13D696330E0}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {74BA4661-2033-AA4E-BE9E-2362788BE955}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.0000000000 87 1 262148 0 1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  MARKER 1 0.0000000000 "Runaway pulse and piano answer" 0 0 1 B {48A5B862-1F16-465A-B2BB-A4CBFBD89567} 0 1
+  MARKER 2 11.0344897959 "Runaway groove enters" 0 0 1 B {BBACCEA8-8DD4-4E66-9D70-2C9D2CFF1900} 0 1
+  MARKER 3 16.5517233560 "Kanye | Sung setup" 0 0 1 B {77A14C16-3362-4EC9-9583-19438859E31C} 0 1
+  MARKER 4 38.6206802721 "First chorus" 0 0 1 B {F91F65FF-141B-40E6-B493-A0995BD7934C} 0 1
+  MARKER 5 60.6896371882 "Upright answer into Savage" 0 0 1 B {9A32EFC0-5502-4D94-B326-9186C9701DA5} 0 1
+  MARKER 6 66.2068934240 "21 Savage | Creepin" 0 0 1 B {14CBD2B6-7A55-411E-AEE1-BA46D5B5AF96} 0 1
+  MARKER 7 96.5517233560 "Veer | Original bridge, Runaway pocket" 0 0 1 B {D03C9CBD-9076-4600-9FE5-527FDB86270C} 0 1
+  MARKER 8 102.0689569161 "Kanye | Opening Runaway verse" 0 0 1 B {E1B0FFA7-2117-4B1A-9F51-972319B282CB} 0 1
+  MARKER 9 124.1379365079 "Kanye | Verse continuation" 0 0 1 B {DA5C1F42-875C-44B4-8A09-97885E05A076} 0 1
+  MARKER 10 146.2068934240 "Kanye | Sung reprise" 0 0 1 B {E9837F58-4ECF-48FD-9364-91789FB873EA} 0 1
+  MARKER 11 168.2758503401 "Final chorus | Four bars" 0 0 1 B {A1221DB4-72C1-4D62-8C60-FB442C905516} 0 1
+  MARKER 12 179.3103401361 "Piano motif reprise" 0 0 1 B {698A4619-35B9-4ED5-8D6E-1852A836A395} 0 1
+  <TRACK {CDA4B505-761E-4BB2-8431-5838D05001EA}
+    NAME "Runaway piano | Opening and closing pulse"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 0.000000000000
+      LENGTH 99.310340136054
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Runaway piano | Opening and closing pulse"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 1
+      IGUID {1416D81D-4B4E-4A95-B7C0-8A4BEDEB1318}
+      GUID {829921A8-A3B6-4A2C-A861-77192978F687}
+      <SOURCE WAVE
+        FILE "Media/Piano pulse.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 99.626802721088
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Runaway piano | Opening and closing pulse"
+      VOLPAN 1 0 1 -1
+      SOFFS 99.310340136054
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 40
+      IGUID {5EACE265-F626-4941-86D3-A6FF3551218D}
+      GUID {C4E6FEE7-5568-4E20-B16F-A04E17981330}
+      <SOURCE WAVE
+        FILE "Media/Piano pulse.wav"
+      >
+    >
+  >
+  <TRACK {BF6C496F-2090-4B4C-8BC9-C265CC0B621A}
+    NAME "Veer | Answering upright"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 0.902993197279
+      LENGTH 98.407346938776
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Answering upright"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 2
+      IGUID {DD1964BD-87EA-4A15-8CD3-56D2EC2410F1}
+      GUID {26E35ACD-AA0E-402F-A526-9908014BD4FC}
+      <SOURCE WAVE
+        FILE "Media/Piano response.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 100.305555555556
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Answering upright"
+      VOLPAN 1 0 1 -1
+      SOFFS 98.407346938776
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 41
+      IGUID {94E80A80-7EEC-4678-AE36-88AA16569CBE}
+      GUID {AC21A043-53E2-4E57-BD90-6A3C7C974669}
+      <SOURCE WAVE
+        FILE "Media/Piano response.wav"
+      >
+    >
+  >
+  <TRACK {6BF785FA-3E46-4DAB-8640-A23B836087C6}
+    NAME "Intro | Drum reveal"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 8.275147392290
+      LENGTH 8.277278911565
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Intro | Drum reveal"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 3
+      IGUID {57B17F87-24E1-4523-8025-67FF6C00EDD8}
+      GUID {6C4D064D-C331-47FF-BD50-14130553BDEB}
+      <SOURCE WAVE
+        FILE "Media/Piano opening drum reveal.wav"
+      >
+    >
+  >
+  <TRACK {15DEA545-1230-47BE-9AD6-C17E4B647F20}
+    NAME "Runaway | Instrumental"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 16.551088435374
+      LENGTH 168.276530612245
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Runaway | Instrumental"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 4
+      IGUID {342E2B00-6CE9-4CC4-A65B-59217059E2EC}
+      GUID {EBB11FA1-B44F-4156-A221-E5E74D5C1491}
+      <SOURCE WAVE
+        FILE "Media/Runaway locally balanced.wav"
+      >
+    >
+  >
+  <TRACK {73841C62-4AE9-46B8-8153-156323E6CCF0}
+    NAME "Kanye West | Lead"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 16.552380952381
+      LENGTH 82.757959183673
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Kanye West | Lead"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 5
+      IGUID {4E25FFB3-EEC4-4E43-8364-DF1D65C6343E}
+      GUID {817BCB81-7F2B-4DD9-8D86-ACEE7F5787DA}
+      <SOURCE WAVE
+        FILE "Media/Kanye combined verses and hook.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 77.193015873016
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Kanye West | Lead"
+      VOLPAN 1 0 1 -1
+      SOFFS 82.757959183673
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 42
+      IGUID {6C2CF867-2714-48B2-AB78-920B274BC147}
+      GUID {59C81790-6ED8-4A88-9BB0-99885A541A78}
+      <SOURCE WAVE
+        FILE "Media/Kanye combined verses and hook.wav"
+      >
+    >
+  >
+  <TRACK {6C6A7DF0-3EA1-490B-8398-E7CAE2574926}
+    NAME "21 Savage | Creepin, close vocal"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 66.026485260771
+      LENGTH 30.013900226757
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "21 Savage | Creepin, close vocal"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 6
+      IGUID {4DCD31A6-1B6F-4DCF-9992-F779361736E9}
+      GUID {0E4C2F39-5DF8-457C-A3CD-1B84B5D43A78}
+      <SOURCE WAVE
+        FILE "Media/Savage articulated vocal.wav"
+      >
+    >
+  >
+  <TRACK {7A09C0CC-6624-4247-972C-AC9B90A75443}
+    NAME "Runaway | Piano answers"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 68.620408163265
+      LENGTH 25.478117913832
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Runaway | Piano answers"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 7
+      IGUID {5DBFF369-1EAE-418F-9DE2-6E18AAF0C230}
+      GUID {8DEF2DBC-7E46-48A7-B15C-27D4219C81CC}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 6.wav"
+      >
+    >
+  >
+  <TRACK {89687960-EE1C-4645-B8C6-0C83F2AE1B0C}
+    NAME "Veer | Guitar"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <VOLENV3
+      EGUID {287D7336-27BD-41E2-8145-6441FCF09449}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0.00000000 1 0
+      PT 60.20000000 1 0
+      PT 60.68000000 0 0
+      PT 67.92000000 0 0
+      PT 68.55000000 1 0
+    >
+    <ITEM
+      POSITION 40.550997732426
+      LENGTH 58.759342403628
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Guitar"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 8
+      IGUID {DF228F9F-7D0E-47FD-9DFB-8657531CE62B}
+      GUID {5F802997-3589-48B4-AA2E-A516302DF37B}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 7.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 79.172222222222
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Guitar"
+      VOLPAN 1 0 1 -1
+      SOFFS 58.759342403628
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 43
+      IGUID {1D4E0459-A094-4063-9837-3D9ED0E3B52F}
+      GUID {9D5995DC-5853-408E-950D-1B9CA29A3E0E}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 7.wav"
+      >
+    >
+  >
+  <TRACK {F3D954C4-6F71-4384-95C4-73CA47B6801B}
+    NAME "Veer | Strings"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <VOLENV3
+      EGUID {8E8CD070-6BB3-4A4E-A2D2-90001F553148}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0.00000000 1 0
+      PT 60.20000000 1 0
+      PT 60.68000000 0 0
+      PT 67.92000000 0 0
+      PT 68.55000000 1 0
+    >
+    <ITEM
+      POSITION 40.550997732426
+      LENGTH 58.759342403628
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Strings"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 9
+      IGUID {9F9E86DF-6CA8-4694-BBB1-D609C95AB1BB}
+      GUID {2ED052CE-6647-4635-A9C9-FD2DC1DC8C72}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 8.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 79.172947845805
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Strings"
+      VOLPAN 1 0 1 -1
+      SOFFS 58.759342403628
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 44
+      IGUID {7A231FE1-9C89-49F0-B4EB-02A587F2EFF7}
+      GUID {2D932907-9E86-44EF-B350-85C4A4C15414}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 8.wav"
+      >
+    >
+  >
+  <TRACK {2E63280A-1BCC-4064-8491-87254708EC91}
+    NAME "Veer | Keys"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <VOLENV3
+      EGUID {2E98E3EE-3BD5-4C97-B6B7-78DABD757473}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0.00000000 1 0
+      PT 60.20000000 1 0
+      PT 60.68000000 0 0
+      PT 67.92000000 0 0
+      PT 68.55000000 1 0
+    >
+    <ITEM
+      POSITION 61.742879818594
+      LENGTH 37.567460317460
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Keys"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 10
+      IGUID {AD4A672F-7089-477C-8448-EFB8410AE533}
+      GUID {654E4339-02B4-40AB-8DFC-CEFE52B84121}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 9.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 79.171519274376
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Keys"
+      VOLPAN 1 0 1 -1
+      SOFFS 37.567460317460
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 45
+      IGUID {DE24B4AD-9350-46A7-80C6-ADA8540034B1}
+      GUID {4C8EBD84-1629-4B5C-9022-4140651BDB87}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 9.wav"
+      >
+    >
+  >
+  <TRACK {ED097D0E-FE0F-4524-B844-FA50404947BE}
+    NAME "Veer | Upright transition phrases"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <VOLENV3
+      EGUID {B4A4ED24-95D1-4FDC-BF85-6C4691567811}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0.00000000 1 0
+      PT 60.20000000 1 0
+      PT 60.68000000 0 0
+      PT 67.92000000 0 0
+      PT 68.55000000 1 0
+    >
+    <ITEM
+      POSITION 16.381020408163
+      LENGTH 82.929319727891
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Upright transition phrases"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 12
+      IGUID {5780A690-3D8C-4BD6-86E6-2C51ADD4EBCB}
+      GUID {D6D4CCEF-33AD-44A7-9EDC-9D25859AA36A}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 11.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 78.914217687075
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Upright transition phrases"
+      VOLPAN 1 0 1 -1
+      SOFFS 82.929319727891
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 46
+      IGUID {029F4B0A-AAAC-46CA-857E-9A35C82DD156}
+      GUID {C293EF21-DFC6-475E-863C-0FB9CB58514D}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 11.wav"
+      >
+    >
+  >
+  <TRACK {2A4188B5-A2C1-4F45-8872-E44149DB0D54}
+    NAME "Veer | Cello transition phrases"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <VOLENV3
+      EGUID {39684D73-6EC9-4D24-B6DC-D87F2177F48D}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0.00000000 1 0
+      PT 60.20000000 1 0
+      PT 60.68000000 0 0
+      PT 67.92000000 0 0
+      PT 68.55000000 1 0
+    >
+    <ITEM
+      POSITION 16.381020408163
+      LENGTH 82.929319727891
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Cello transition phrases"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 13
+      IGUID {1E6F455A-34AD-44FC-9C29-4D8AE4B87480}
+      GUID {935CD0CD-E39C-48D8-80C0-5206FD36C043}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 12.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 79.172721088435
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Cello transition phrases"
+      VOLPAN 1 0 1 -1
+      SOFFS 82.929319727891
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 47
+      IGUID {A24F1900-A29E-47F1-97B5-44C672246B91}
+      GUID {39C5DD0D-B0CE-4413-AEF4-C603E9C1BD98}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 12.wav"
+      >
+    >
+  >
+  <TRACK {166834CB-40D9-42E7-A159-8798D3A3AA3D}
+    NAME "Veer | Bass pickups"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 59.213174603175
+      LENGTH 1.576530612245
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Bass pickups"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 14
+      IGUID {D026D998-4DC0-4BD4-BD48-D87DD5BCC264}
+      GUID {F66155EB-8FA2-4B14-8BCF-36656264E1CA}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 13.wav"
+      >
+    >
+  >
+  <TRACK {8A6A6105-A088-4B9F-888B-24370BC48830}
+    NAME "Veer | Transition echoes and room"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <VOLENV3
+      EGUID {FCAFEFAE-9B1F-4394-A29F-3FC18A0FA6B5}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0.00000000 1 0
+      PT 60.20000000 1 0
+      PT 60.68000000 0 0
+      PT 67.92000000 0 0
+      PT 68.55000000 1 0
+    >
+    <ITEM
+      POSITION 16.551020408163
+      LENGTH 82.759319727891
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Transition echoes and room"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 15
+      IGUID {2F826A87-D26F-435C-AC9D-B15938FD113D}
+      GUID {1AC93465-CB5B-4BE3-B642-83CB06327932}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 14.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.068956916100
+      LENGTH 78.167800453515
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Transition echoes and room"
+      VOLPAN 1 0 1 -1
+      SOFFS 82.759319727891
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 48
+      IGUID {FB0A69F8-15D9-4584-8E3E-75619742190C}
+      GUID {9C1D775E-2DD0-4974-950B-474FA98BC2D8}
+      <SOURCE WAVE
+        FILE "Media/Piano revision layer 14.wav"
+      >
+    >
+  >
+  <TRACK {1DD0C66E-B4FF-49D8-8053-48216A189203}
+    NAME "Veer | Handoff Nylon guitar"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 96.551723356009
+      LENGTH 6.067233560091
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Handoff Nylon guitar"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 90
+      IGUID {10AE36F8-3246-4C70-B7A4-A83B1C16D5CB}
+      GUID {0A3F3EA9-A8AC-429F-9A0D-67327CB94642}
+      <SOURCE WAVE
+        FILE "Media/Handoff Nylon guitar.wav"
+      >
+    >
+  >
+  <TRACK {27E425A0-1E1A-4710-B0AA-49148C679D6A}
+    NAME "Veer | Handoff Electric keys"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 96.551723356009
+      LENGTH 6.067233560091
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Handoff Electric keys"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 91
+      IGUID {B5111794-E357-4043-BC0C-240BAF60839B}
+      GUID {F5704560-3EC3-4579-8C0D-7C2BB087B04A}
+      <SOURCE WAVE
+        FILE "Media/Handoff Electric keys.wav"
+      >
+    >
+  >
+  <TRACK {DBC30447-A905-4C14-BB58-B874607CA507}
+    NAME "Veer | Handoff Bass"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 95.862063492063
+      LENGTH 6.756893424036
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Handoff Bass"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 92
+      IGUID {5766D2E4-F116-4223-AD57-13438DE8AECB}
+      GUID {EAAF3DB1-4435-4536-B755-21C380F3FC80}
+      <SOURCE WAVE
+        FILE "Media/Bridge pocket bass.wav"
+      >
+    >
+  >
+  <TRACK {22206C91-6216-4F2A-9627-168A171D6482}
+    NAME "Veer | Handoff Drums"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 95.862063492063
+      LENGTH 6.756893424036
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Handoff Drums"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 93
+      IGUID {8BC15D3A-EA96-4BEA-A395-93E5047FEA14}
+      GUID {876E96F2-3B2B-4AFB-A7E3-EBC0D4FA331B}
+      <SOURCE WAVE
+        FILE "Media/Bridge drums with hat handover.wav"
+      >
+    >
+  >
+  <TRACK {8ABF8D89-B983-4E62-AEFB-32388859965F}
+    NAME "Veer | Upright answer before Savage"
+    VOLPAN 1 0 -1 -1 1
+    MAINSEND 1 0
+    NCHAN 2
+    <ITEM
+      POSITION 60.689659863946
+      LENGTH 5.120340136054
+      LOOP 0
+      FADEIN 1 0 0 1 0 0 0 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0 0 1 0 0 1 0 0
+      NAME "Veer | Upright answer before Savage"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.000000000000
+      PLAYRATE 1 1 0 -1 0 0.0025
+      IID 120
+      IGUID {98F50747-4B6C-44D1-B115-558273B6FCC8}
+      GUID {C37F22C6-73D7-439F-B2D4-07072430FBE3}
+      <SOURCE WAVE
+        FILE "Media/Upright answer before Savage.wav"
+      >
+    >
+  >
+>

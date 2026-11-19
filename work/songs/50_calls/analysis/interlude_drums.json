@@ -1,0 +1,424 @@
+{
+  "path": "/Users/veerdosi/Library/Application Support/REAPER/MCP Sessions/50 Calls Interlude/Renders/Stems/Cigarettes _ Drums.wav",
+  "filePosition": 0,
+  "startTime": 11.9,
+  "endTime": 72,
+  "band": "low",
+  "tempo": {
+    "bpm": 106.7,
+    "confidence": 0.69
+  },
+  "detected": 92,
+  "bandCounts": {
+    "low": 82,
+    "mid": 4,
+    "high": 6
+  },
+  "total": 67,
+  "offset": 0,
+  "hasMore": false,
+  "transients": [
+    {
+      "time": 12.004,
+      "strength": 1,
+      "band": "low",
+      "peakDb": -2.3
+    },
+    {
+      "time": 12.7483,
+      "strength": 0.597,
+      "band": "low",
+      "peakDb": -2.6
+    },
+    {
+      "time": 12.9361,
+      "strength": 0.94,
+      "band": "low",
+      "peakDb": -1
+    },
+    {
+      "time": 13.1235,
+      "strength": 0.847,
+      "band": "low",
+      "peakDb": -1.3
+    },
+    {
+      "time": 14.436,
+      "strength": 0.858,
+      "band": "low",
+      "peakDb": -0.4
+    },
+    {
+      "time": 14.9987,
+      "strength": 0.877,
+      "band": "low",
+      "peakDb": -0.1
+    },
+    {
+      "time": 16.3111,
+      "strength": 0.888,
+      "band": "low",
+      "peakDb": -1
+    },
+    {
+      "time": 16.6861,
+      "strength": 0.921,
+      "band": "low",
+      "peakDb": -0.7
+    },
+    {
+      "time": 16.8736,
+      "strength": 0.925,
+      "band": "low",
+      "peakDb": 0
+    },
+    {
+      "time": 17.4361,
+      "strength": 0.928,
+      "band": "low",
+      "peakDb": -0.5
+    },
+    {
+      "time": 17.9985,
+      "strength": 0.933,
+      "band": "low",
+      "peakDb": -0.6
+    },
+    {
+      "time": 18.9361,
+      "strength": 0.945,
+      "band": "low",
+      "peakDb": -1
+    },
+    {
+      "time": 19.126,
+      "strength": 0.83,
+      "band": "low",
+      "peakDb": -1.3
+    },
+    {
+      "time": 20.4384,
+      "strength": 0.921,
+      "band": "low",
+      "peakDb": -0.7
+    },
+    {
+      "time": 20.9986,
+      "strength": 0.993,
+      "band": "low",
+      "peakDb": -0.8
+    },
+    {
+      "time": 21.7475,
+      "strength": 0.617,
+      "band": "low",
+      "peakDb": -1.3
+    },
+    {
+      "time": 22.3112,
+      "strength": 0.951,
+      "band": "low",
+      "peakDb": -0.7
+    },
+    {
+      "time": 22.6861,
+      "strength": 1,
+      "band": "low",
+      "peakDb": -0.8
+    },
+    {
+      "time": 22.8736,
+      "strength": 0.946,
+      "band": "low",
+      "peakDb": -0.3
+    },
+    {
+      "time": 23.2457,
+      "strength": 0.603,
+      "band": "low",
+      "peakDb": -2.6
+    },
+    {
+      "time": 23.4346,
+      "strength": 0.948,
+      "band": "low",
+      "peakDb": -0.4
+    },
+    {
+      "time": 23.9986,
+      "strength": 0.933,
+      "band": "low",
+      "peakDb": -4
+    },
+    {
+      "time": 35.9986,
+      "strength": 0.887,
+      "band": "low",
+      "peakDb": -4.4
+    },
+    {
+      "time": 36.9361,
+      "strength": 0.85,
+      "band": "low",
+      "peakDb": -2.8
+    },
+    {
+      "time": 37.1221,
+      "strength": 0.936,
+      "band": "low",
+      "peakDb": -3.1
+    },
+    {
+      "time": 38.4346,
+      "strength": 0.986,
+      "band": "low",
+      "peakDb": -1.9
+    },
+    {
+      "time": 38.9986,
+      "strength": 1,
+      "band": "low",
+      "peakDb": -2.2
+    },
+    {
+      "time": 40.3111,
+      "strength": 0.987,
+      "band": "low",
+      "peakDb": -2.1
+    },
+    {
+      "time": 40.6861,
+      "strength": 0.838,
+      "band": "low",
+      "peakDb": -2
+    },
+    {
+      "time": 40.8737,
+      "strength": 0.948,
+      "band": "low",
+      "peakDb": -1.7
+    },
+    {
+      "time": 41.4361,
+      "strength": 1,
+      "band": "low",
+      "peakDb": -1.3
+    },
+    {
+      "time": 41.9985,
+      "strength": 0.882,
+      "band": "low",
+      "peakDb": -2
+    },
+    {
+      "time": 42.9361,
+      "strength": 0.928,
+      "band": "low",
+      "peakDb": -1.8
+    },
+    {
+      "time": 43.122,
+      "strength": 0.785,
+      "band": "low",
+      "peakDb": -2.4
+    },
+    {
+      "time": 44.2505,
+      "strength": 0.593,
+      "band": "low",
+      "peakDb": -4.8
+    },
+    {
+      "time": 44.4361,
+      "strength": 0.854,
+      "band": "low",
+      "peakDb": -2.1
+    },
+    {
+      "time": 44.9971,
+      "strength": 0.868,
+      "band": "low",
+      "peakDb": -2.4
+    },
+    {
+      "time": 46.3111,
+      "strength": 0.874,
+      "band": "low",
+      "peakDb": -1.4
+    },
+    {
+      "time": 46.6846,
+      "strength": 0.948,
+      "band": "low",
+      "peakDb": -2
+    },
+    {
+      "time": 46.8735,
+      "strength": 0.864,
+      "band": "low",
+      "peakDb": -1.7
+    },
+    {
+      "time": 47.2514,
+      "strength": 0.578,
+      "band": "low",
+      "peakDb": -2.6
+    },
+    {
+      "time": 47.4361,
+      "strength": 0.882,
+      "band": "low",
+      "peakDb": -0.6
+    },
+    {
+      "time": 47.9987,
+      "strength": 0.92,
+      "band": "low",
+      "peakDb": -1.4
+    },
+    {
+      "time": 48.9362,
+      "strength": 0.96,
+      "band": "low",
+      "peakDb": -2.2
+    },
+    {
+      "time": 49.1236,
+      "strength": 0.862,
+      "band": "low",
+      "peakDb": -2.6
+    },
+    {
+      "time": 50.4361,
+      "strength": 0.948,
+      "band": "low",
+      "peakDb": -2.3
+    },
+    {
+      "time": 50.9986,
+      "strength": 0.973,
+      "band": "low",
+      "peakDb": -1.9
+    },
+    {
+      "time": 52.3112,
+      "strength": 0.97,
+      "band": "low",
+      "peakDb": -1.9
+    },
+    {
+      "time": 52.6861,
+      "strength": 0.98,
+      "band": "low",
+      "peakDb": -1.9
+    },
+    {
+      "time": 52.8737,
+      "strength": 0.932,
+      "band": "low",
+      "peakDb": -1.5
+    },
+    {
+      "time": 53.4361,
+      "strength": 0.931,
+      "band": "low",
+      "peakDb": -2
+    },
+    {
+      "time": 53.9985,
+      "strength": 0.752,
+      "band": "low",
+      "peakDb": -16.4
+    },
+    {
+      "time": 62.9987,
+      "strength": 0.788,
+      "band": "low",
+      "peakDb": -5.8
+    },
+    {
+      "time": 64.311,
+      "strength": 0.824,
+      "band": "low",
+      "peakDb": -5.6
+    },
+    {
+      "time": 64.6862,
+      "strength": 0.908,
+      "band": "low",
+      "peakDb": -5.6
+    },
+    {
+      "time": 64.8736,
+      "strength": 0.857,
+      "band": "low",
+      "peakDb": -5.1
+    },
+    {
+      "time": 65.4361,
+      "strength": 0.904,
+      "band": "low",
+      "peakDb": -5.1
+    },
+    {
+      "time": 65.9985,
+      "strength": 0.968,
+      "band": "low",
+      "peakDb": -2.9
+    },
+    {
+      "time": 66.9416,
+      "strength": 0.862,
+      "band": "low",
+      "peakDb": -1.6
+    },
+    {
+      "time": 67.122,
+      "strength": 0.902,
+      "band": "low",
+      "peakDb": -1.6
+    },
+    {
+      "time": 68.4362,
+      "strength": 0.985,
+      "band": "low",
+      "peakDb": -1.2
+    },
+    {
+      "time": 68.9985,
+      "strength": 1,
+      "band": "low",
+      "peakDb": -1.2
+    },
+    {
+      "time": 70.3111,
+      "strength": 0.984,
+      "band": "low",
+      "peakDb": -1.1
+    },
+    {
+      "time": 70.6917,
+      "strength": 0.875,
+      "band": "low",
+      "peakDb": -1.1
+    },
+    {
+      "time": 70.8737,
+      "strength": 0.925,
+      "band": "low",
+      "peakDb": -1.3
+    },
+    {
+      "time": 71.2475,
+      "strength": 0.604,
+      "band": "low",
+      "peakDb": -2.2
+    },
+    {
+      "time": 71.4361,
+      "strength": 0.929,
+      "band": "low",
+      "peakDb": -0.7
+    }
+  ]
+}

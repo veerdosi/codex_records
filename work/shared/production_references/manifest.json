@@ -1,0 +1,715 @@
+{
+  "version": 1,
+  "sources": {
+    "original_reference": {
+      "title": "KENDRICK MADE CA$INO",
+      "channel": "Spectre",
+      "url": "https://www.youtube.com/watch?v=so5KJzTXRVo",
+      "duration_seconds": 2307
+    },
+    "earworm": {
+      "title": "DJ Earworm - United State of Pop 2009 (Blame It on the Pop)",
+      "channel": "Dj Earworm",
+      "url": "https://www.youtube.com/watch?v=iNzrwh2Z2hQ",
+      "duration_seconds": 285
+    },
+    "trayze": {
+      "title": "Learn To DJ Tutorial: Incorporating Word Play In Your Live Mixes (DJ Trayze)",
+      "channel": "Beat Refinery",
+      "url": "https://www.youtube.com/watch?v=_w7ED8EedNY",
+      "duration_seconds": 265
+    },
+    "crossfader": {
+      "title": "12 DJ Transitions you MUST KNOW (easy to learn tutorial)",
+      "channel": "Crossfader",
+      "url": "https://www.youtube.com/watch?v=vdbcvsUKY2s",
+      "duration_seconds": 962
+    },
+    "tracklib": {
+      "title": "Sample Breakdown: J. Dilla - Don’t Cry",
+      "channel": "TRACKLIB",
+      "url": "https://www.youtube.com/watch?v=6By2YvpjjWw",
+      "duration_seconds": 58
+    },
+    "dilla": {
+      "title": "Don't Cry",
+      "channel": "J Dilla",
+      "url": "https://www.youtube.com/watch?v=x-23FpWsTKk",
+      "duration_seconds": 119
+    },
+    "chaka": {
+      "title": "Chaka Khan - Through the Fire (Official Music Video) [HD Remaster]",
+      "channel": "Chaka Khan",
+      "url": "https://www.youtube.com/watch?v=TjWmw-8-OEk",
+      "duration_seconds": 247
+    },
+    "kanye_album": {
+      "title": "Through The Wire",
+      "channel": "Kanye West",
+      "url": "https://www.youtube.com/watch?v=AE8y25CcE6s",
+      "duration_seconds": 221
+    },
+    "npr": {
+      "title": "9th Wonder On Sampling For Kendrick Lamar | The Formula, S1E2",
+      "channel": "NPR Music",
+      "url": "https://www.youtube.com/watch?v=23vumiogTQk",
+      "duration_seconds": 341
+    },
+    "lorde": {
+      "title": "Lorde - Tennis Court",
+      "channel": "Lorde",
+      "url": "https://www.youtube.com/watch?v=D8Ymd-OCucs",
+      "duration_seconds": 202
+    },
+    "flume": {
+      "title": "Lorde - Tennis Court (Flume Remix)",
+      "channel": "Flume",
+      "url": "https://www.youtube.com/watch?v=8ATu1BiOPZA",
+      "duration_seconds": 364
+    },
+    "radiohead": {
+      "title": "Radiohead - Creep",
+      "channel": "Radiohead",
+      "url": "https://www.youtube.com/watch?v=XFkzRNyygfk",
+      "duration_seconds": 237
+    },
+    "pmj": {
+      "title": "Creep - Vintage Postmodern Jukebox Radiohead Cover ft. Haley Reinhart",
+      "channel": "PostmodernJukebox",
+      "url": "https://www.youtube.com/watch?v=m3lF2qEA2cw",
+      "duration_seconds": 295
+    },
+    "dido": {
+      "title": "Thank You",
+      "channel": "Dido",
+      "url": "https://www.youtube.com/watch?v=Yj8ZufvGfvk",
+      "duration_seconds": 218
+    },
+    "stan": {
+      "title": "Stan",
+      "channel": "EminemMusic",
+      "url": "https://www.youtube.com/watch?v=7u1Jj6aRIec",
+      "duration_seconds": 403
+    },
+    "original_encore": {
+      "title": "Encore",
+      "channel": "JAŸ-Z",
+      "url": "https://www.youtube.com/watch?v=Rumxchi7eC0",
+      "duration_seconds": 251
+    },
+    "original_numb": {
+      "title": "Numb (Official Music Video) [4K UPGRADE] – Linkin Park",
+      "channel": "Linkin Park",
+      "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+      "duration_seconds": 187
+    },
+    "collision_numb": {
+      "title": "Numb / Encore (Official Audio) - Linkin Park / JAY-Z",
+      "channel": "Linkin Park",
+      "url": "https://www.youtube.com/watch?v=_1oO4wzPCmE",
+      "duration_seconds": 206
+    },
+    "collision_dirt": {
+      "title": "Dirt Off Your Shoulder / Lying From You (Official Audio) - Linkin Park / JAY-Z",
+      "channel": "Linkin Park",
+      "url": "https://www.youtube.com/watch?v=MG2S0ns8Dj8",
+      "duration_seconds": 245
+    },
+    "love_the_way": {
+      "title": "Love The Way You Lie",
+      "channel": "EminemMusic",
+      "url": "https://www.youtube.com/watch?v=ozPOI0TJHCg",
+      "duration_seconds": 263
+    },
+    "touch_me_now": {
+      "title": "Touch Me Now",
+      "channel": "Stephanie Mills - Topic",
+      "url": "https://www.youtube.com/watch?v=_HEMiXyFEP0",
+      "duration_seconds": 295
+    },
+    "said_n_done": {
+      "title": "21 Savage x Metro Boomin - Said N Done (Official Audio)",
+      "channel": "21 Savage",
+      "url": "https://www.youtube.com/watch?v=_zXBotJmdOs",
+      "duration_seconds": 232
+    },
+    "dahi_breakdown": {
+      "title": "The Making Of 21 Savage and J. Cole's \"a lot\" With DJ Dahi | Deconstructed",
+      "channel": "Genius",
+      "url": "https://www.youtube.com/watch?v=WwYX6iIodqI",
+      "duration_seconds": 489
+    },
+    "a_lot": {
+      "title": "21 Savage - a lot (Official Video) ft. J. Cole",
+      "channel": "21 Savage",
+      "url": "https://www.youtube.com/watch?v=DmWWqogr_r8",
+      "duration_seconds": 392
+    },
+    "cola_bottle": {
+      "title": "Cola Bottle Baby",
+      "channel": "Edwin Birdsong - Topic",
+      "url": "https://www.youtube.com/watch?v=fiD39jo5Yo4",
+      "duration_seconds": 308
+    },
+    "harder_faster": {
+      "title": "Daft Punk - Harder, Better, Faster, Stronger (Official Audio)",
+      "channel": "Daft Punk",
+      "url": "https://www.youtube.com/watch?v=yydNF8tuVmU",
+      "duration_seconds": 225
+    },
+    "stronger": {
+      "title": "Kanye West - Stronger",
+      "channel": "Kanye West",
+      "url": "https://www.youtube.com/watch?v=PsO6ZnUZI0g",
+      "duration_seconds": 266
+    },
+    "heads_rock": {
+      "title": "Heads Will Roll",
+      "channel": "yeahyeahyeahsmusic",
+      "url": "https://www.youtube.com/watch?v=vw3k_jWa-gI",
+      "duration_seconds": 221
+    },
+    "heads_house": {
+      "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+      "channel": "yeahyeahyeahsmusic",
+      "url": "https://www.youtube.com/watch?v=wTrztS8nMmI",
+      "duration_seconds": 204
+    },
+    "heads_jungle": {
+      "title": "Nia Archives - Off Wiv Ya Headz (Official Video)",
+      "channel": "Nia Archives",
+      "url": "https://www.youtube.com/watch?v=FrnDC94_Tic",
+      "duration_seconds": 207
+    },
+    "heads_breakdown": {
+      "title": "A-Trak Explains How He Made Yeah Yeah Yeahs' \"Heads Will Roll\" Remix",
+      "channel": "HHHeads",
+      "url": "https://www.youtube.com/watch?v=Z7_H_Q4L2CM",
+      "duration_seconds": 62
+    }
+  },
+  "cases": [
+    {
+      "id": "spectre_phrase_reset",
+      "kind": "handoff",
+      "title": "Rap phrase reset over a different beat",
+      "clips": [
+        {
+          "source": "original_reference",
+          "start_seconds": 834.5,
+          "end_seconds": 854.5,
+          "role": "result",
+          "file": "clips/spectre_phrase_reset_01.flac",
+          "cue_seconds": 844,
+          "cue_label": "Phrase restarts on the full beat"
+        }
+      ],
+      "keep": "Kendrick’s performance and recognizable phrase.",
+      "change": "A briefly interrupted phrase restarts as the beat comes forward in the family ties × House Money chapter.",
+      "reaper": "Preserve the restart at the head of a complete phrase. Compare the clip on the dry vocal and backing tracks and land the returning kick on its intended bar accent.",
+      "evidence": "Uploader chapter and credits. Local word timing found the repeated phrase around 13:50 and 14:04. A 500 ms low-band check found a rise near the second entrance.",
+      "links": []
+    },
+    {
+      "id": "earworm_phrase_duet",
+      "kind": "handoff",
+      "title": "Two lead voices on one backing",
+      "clips": [
+        {
+          "source": "earworm",
+          "start_seconds": 36,
+          "end_seconds": 57,
+          "role": "result",
+          "file": "clips/earworm_phrase_duet_01.flac",
+          "cue_seconds": 45,
+          "cue_label": "Voices interleave"
+        }
+      ],
+      "keep": "A steady backing under the vocal exchange.",
+      "change": "Two voices alternate short responses. The switch reads as one sung phrase assembled from different sources.",
+      "reaper": "Mark line endings and leave reply space on separate vocal tracks. Audition it once with the backing muted to check the phrase, then restore the beat.",
+      "evidence": "Official mashup and an analysis identifying the duet around 0:45. Cue is approximate.",
+      "links": [
+        "https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/1613/files/2013/11/johnson_thesis_submission.pdf"
+      ]
+    },
+    {
+      "id": "trayze_wordplay",
+      "kind": "handoff",
+      "title": "A shared word connects rock and hip-hop",
+      "clips": [
+        {
+          "source": "trayze",
+          "start_seconds": 81,
+          "end_seconds": 103,
+          "role": "result",
+          "file": "clips/trayze_wordplay_01.flac",
+          "cue_seconds": 91.5,
+          "cue_label": "Incoming low end arrives"
+        }
+      ],
+      "keep": "The outgoing line’s meaning and a short, recognizable vocal loop.",
+      "change": "Trayze isolates a reference to California from Red Hot Chili Peppers and uses it to cue the Dr. Dre and 2Pac track.",
+      "reaper": "Keep the outgoing sentence intact, then repeat its key word on a separate track and line up the answer from the incoming recording. Give the new kick its own entrance.",
+      "evidence": "Trayze explains the two tracks before the demonstration. Local word timing locates the loop near 1:26 and bass energy returns around 1:31.5.",
+      "links": [
+        "https://news.djcity.com/how-to-incorporate-word-play-into-live-mixes/"
+      ]
+    },
+    {
+      "id": "crossfader_loop_cut",
+      "kind": "handoff",
+      "title": "Change loop length over an incoming synth",
+      "clips": [
+        {
+          "source": "crossfader",
+          "start_seconds": 179,
+          "end_seconds": 206,
+          "role": "result",
+          "file": "clips/crossfader_loop_cut_01.flac",
+          "cue_seconds": 191,
+          "cue_label": "Low end enters beneath the vocal chop"
+        }
+      ],
+      "keep": "An identifiable syllable from the outgoing vocal.",
+      "change": "A one-beat loop alternates with a half-beat chop while the new synth takes over. A brake releases the loop into the drop.",
+      "reaper": "Put the vocal chop on its own lane. Try a one-beat repeat, then a half-beat repeat, and keep the incoming groove in time through both. Place the brake at the end of the phrase.",
+      "evidence": "Crossfader’s Loop Cutting chapter and written deck walkthrough. The marked cue is a local bass-entry landmark within the longer demonstration.",
+      "links": [
+        "https://wearecrossfader.co.uk/blog/12-high-energy-dj-transitions/"
+      ]
+    },
+    {
+      "id": "crossfader_slip",
+      "kind": "handoff",
+      "title": "Vocal jumps while the underlying timeline runs",
+      "clips": [
+        {
+          "source": "crossfader",
+          "start_seconds": 573,
+          "end_seconds": 601,
+          "role": "result",
+          "file": "clips/crossfader_slip_01.flac",
+          "cue_seconds": 590,
+          "cue_label": "Bass returns after isolated cue hits"
+        }
+      ],
+      "keep": "The incoming track’s advancing playback position.",
+      "change": "Isolated vocal cues interrupt a phrased blend, then the incoming bass and full arrangement return. The outgoing sound has a short effect tail.",
+      "reaper": "Keep a continuous backing lane and add the vocal cue or reverse as a parallel item. At the end of the effect, resume the backing from the position it would already have reached.",
+      "evidence": "Crossfader’s Slip Mode chapter and written description. Local low-band measurements place the large bass return around 9:50.",
+      "links": [
+        "https://wearecrossfader.co.uk/blog/12-high-energy-dj-transitions/"
+      ]
+    },
+    {
+      "id": "dilla_sample_recomposition",
+      "kind": "sample composition",
+      "title": "A soul sample becomes a new beat",
+      "clips": [
+        {
+          "source": "tracklib",
+          "start_seconds": 2,
+          "end_seconds": 19,
+          "role": "source excerpt in breakdown",
+          "file": "clips/dilla_sample_recomposition_01.flac"
+        },
+        {
+          "source": "dilla",
+          "start_seconds": 34,
+          "end_seconds": 56,
+          "role": "result",
+          "file": "clips/dilla_sample_recomposition_02.flac",
+          "cue_seconds": 40,
+          "cue_label": "Longer sample gives way to short chops"
+        }
+      ],
+      "keep": "The character of The Escorts’ recording and recognizable bits of its melody and voice.",
+      "change": "Dilla moves from longer stretches of the source to reordered small chops that supply rhythm and harmony.",
+      "reaper": "Split the source at drum and chord attacks. Build a two-bar part by reordering a few notes, then create one contrasting bar before repeating the pattern.",
+      "evidence": "Tracklib’s sample breakdown identifies The Escorts. Published analysis locates the move into micro-chops near 0:40. Local audio confirms a clear rhythmic change around that range.",
+      "links": [
+        "https://www.tracklib.com/blog/jdilla-donuts-samples",
+        "https://www.academia.edu/37135825/Analysis_of_Sampling_Techniques_by_J_Dilla_in_Donuts"
+      ]
+    },
+    {
+      "id": "kanye_sample_as_hook",
+      "kind": "sample composition",
+      "title": "A ballad vocal becomes a recurring motif",
+      "clips": [
+        {
+          "source": "chaka",
+          "start_seconds": 54.5,
+          "end_seconds": 77,
+          "role": "source",
+          "file": "clips/kanye_sample_as_hook_01.flac",
+          "cue_seconds": 56,
+          "cue_label": "Source chorus begins"
+        },
+        {
+          "source": "kanye_album",
+          "start_seconds": 20,
+          "end_seconds": 42,
+          "role": "result",
+          "file": "clips/kanye_sample_as_hook_02.flac",
+          "cue_seconds": 33,
+          "cue_label": "Rap enters over the repeating sample"
+        }
+      ],
+      "keep": "Chaka Khan’s sung melodic contour.",
+      "change": "The vocal fragment is sped up and pitched higher, then repeated over hip-hop drums. It helps define the backing and the hook.",
+      "reaper": "Start with one recognizable phrase. Audition varispeed with pitch follow, then write drums and bass around its accents. Check the sampled vocal against the new lead for masking.",
+      "evidence": "Original and released recordings. A published musical analysis reports the speed and pitch change. Cue positions are approximate from phrase timing.",
+      "links": [
+        "https://www.mtosmt.org/issues/mto.23.29.2/mto.23.29.2.tatar.pdf"
+      ]
+    },
+    {
+      "id": "ninth_wonder_sample_form",
+      "kind": "sample composition",
+      "title": "Write a beginning, middle and ending with chops",
+      "clips": [
+        {
+          "source": "npr",
+          "start_seconds": 184.8,
+          "end_seconds": 213.2,
+          "role": "producer breakdown",
+          "file": "clips/ninth_wonder_sample_form_01.flac",
+          "cue_seconds": 197.7,
+          "cue_label": "Chop sequence follows the explanation"
+        }
+      ],
+      "keep": "The sample’s texture and a few selected musical fragments.",
+      "change": "9th Wonder explains how he pieces together a phrase with its own beginning, middle, and end. He uses different sampled beats within one Kendrick Lamar song.",
+      "reaper": "Build a short progression from chops, then decide which variation can support a verse entrance, a new section, or a lyric turning point.",
+      "evidence": "Producer’s own demonstration for NPR. The cut contains brief narration and the musical example.",
+      "links": [
+        "https://news.wjct.org/2020-04-07/9th-wonder-breaks-down-his-beats-for-kendrick-lamars-duckworth"
+      ]
+    },
+    {
+      "id": "stan_sample_as_scene",
+      "kind": "sample composition",
+      "title": "A sampled refrain sets the scene before a verse",
+      "clips": [
+        {
+          "source": "dido",
+          "start_seconds": 35.805,
+          "end_seconds": 59.176,
+          "role": "source",
+          "file": "clips/stan_sample_as_scene_01.flac"
+        },
+        {
+          "source": "stan",
+          "start_seconds": 25.461,
+          "end_seconds": 55,
+          "role": "result",
+          "file": "clips/stan_sample_as_scene_02.flac",
+          "cue_seconds": 49.354,
+          "cue_label": "Annotated refrain boundary before the verse"
+        }
+      ],
+      "keep": "The voice, melody and distinctive tail of Dido’s refrain.",
+      "change": "The sampled refrain opens a new narrative and returns between verses. The verse enters after the repeated opening refrain.",
+      "reaper": "Place the phrase and its tail on separate items so the tail can cross a bar boundary. Audition the last refrain repeat against the complete verse pickup.",
+      "evidence": "Sample100 extension S038 marks the source at 35.805–59.176 seconds and the second occurrence at 25.461–49.354 seconds. Band-limited correlation confirmed the sample at several points on the official YouTube uploads within the annotated occurrences.",
+      "links": [
+        "https://github.com/chymaera96/NeuralSampleID"
+      ]
+    },
+    {
+      "id": "flume_same_vocal_new_genre",
+      "kind": "genre change",
+      "title": "One vocal performance over a new rhythmic world",
+      "clips": [
+        {
+          "source": "lorde",
+          "start_seconds": 28,
+          "end_seconds": 47,
+          "role": "original",
+          "file": "clips/flume_same_vocal_new_genre_01.flac",
+          "cue_seconds": 40,
+          "cue_label": "Matching vocal phrase"
+        },
+        {
+          "source": "flume",
+          "start_seconds": 88.5,
+          "end_seconds": 114,
+          "role": "remix",
+          "file": "clips/flume_same_vocal_new_genre_02.flac",
+          "cue_seconds": 102.7,
+          "cue_label": "Drop follows the vocal build"
+        }
+      ],
+      "keep": "Lorde’s recognizable voice and the contour of the matched lyric passage.",
+      "change": "Flume reshapes the pulse and space around the vocal and gives the section a heavier synth and low-end release.",
+      "reaper": "Mark the vocal’s pickups and long notes. Replace the drums and bass as a pair, then use synth rhythm and density to make the new genre audible. Keep enough space for the next consonant.",
+      "evidence": "Official original and remix uploads. Local word timings match the lyric around 0:40 of the original and 1:41 of the remix. Bass energy rises into the remix drop.",
+      "links": [
+        "https://www.youtube.com/watch?v=ZOyELf8C4UY"
+      ]
+    },
+    {
+      "id": "creep_jazz_arrangement",
+      "kind": "genre change",
+      "title": "Rock to vintage jazz through arrangement",
+      "clips": [
+        {
+          "source": "radiohead",
+          "start_seconds": 47,
+          "end_seconds": 72,
+          "role": "original",
+          "file": "clips/creep_jazz_arrangement_01.flac",
+          "cue_seconds": 59,
+          "cue_label": "Original chorus entrance"
+        },
+        {
+          "source": "pmj",
+          "start_seconds": 25,
+          "end_seconds": 50,
+          "role": "reperformance",
+          "file": "clips/creep_jazz_arrangement_02.flac",
+          "cue_seconds": 34,
+          "cue_label": "Jazz chorus entrance"
+        }
+      ],
+      "keep": "The song’s melody, lyric and recognizable chorus entrance.",
+      "change": "A new vocalist and band recast the song with acoustic jazz instrumentation and phrasing.",
+      "reaper": "Use this as a writing reference when the original accompaniment feels too tied to its genre. Test the target groove with drums, bass and chord voicings before adding more instruments.",
+      "evidence": "Radiohead’s recording and the credited Postmodern Jukebox performance. Chorus words were used to align the example windows.",
+      "links": []
+    },
+    {
+      "id": "collision_course_numb",
+      "kind": "handoff",
+      "title": "A rock motif carries a rap entrance",
+      "clips": [
+        {
+          "source": "original_encore",
+          "start_seconds": 15,
+          "end_seconds": 42,
+          "role": "JAY-Z source",
+          "file": "clips/collision_course_numb_01.flac"
+        },
+        {
+          "source": "original_numb",
+          "start_seconds": 40,
+          "end_seconds": 69,
+          "role": "Linkin Park source",
+          "file": "clips/collision_course_numb_02.flac"
+        },
+        {
+          "source": "collision_numb",
+          "start_seconds": 18,
+          "end_seconds": 45,
+          "role": "Collision Course",
+          "file": "clips/collision_course_numb_03.flac",
+          "cue_seconds": 29,
+          "cue_label": "Full low end enters at the rap handoff"
+        }
+      ],
+      "keep": "The recognizable keyboard line and JAY-Z’s cadence.",
+      "change": "The mashup uses Linkin Park’s melodic identity and lets the full rhythm section arrive at the rap entrance.",
+      "reaper": "Print the incoming rap with its complete pickup. Keep one identifiable sound through the handoff and use the first full drum hit to establish the new pocket.",
+      "evidence": "The two originals and the official Collision Course master. The local 30–120 Hz envelope shows the full low end arriving around 29 seconds in the combined version. Local word timing places JAY-Z’s verse entrance at 28.90 seconds.",
+      "links": []
+    },
+    {
+      "id": "collision_course_dirt",
+      "kind": "handoff",
+      "title": "A guitar lift makes room for the lead rap",
+      "clips": [
+        {
+          "source": "collision_dirt",
+          "start_seconds": 22,
+          "end_seconds": 49,
+          "role": "Collision Course",
+          "file": "clips/collision_course_dirt_01.flac",
+          "cue_seconds": 30.38,
+          "cue_label": "Lead rap phrase starts"
+        }
+      ],
+      "keep": "The guitar and rhythmic setup under the complete incoming rap phrase.",
+      "change": "The rhythm briefly thins before the low end and rock texture build around JAY-Z’s lead.",
+      "reaper": "Put the pickup on the vocal track. Build a two-beat drum or melodic cue under it and bring the full backing in on a deliberate bar accent.",
+      "evidence": "Official Collision Course upload. Word alignment places the lead entrance at about 30.38 seconds. The low-band envelope rises immediately before it.",
+      "links": []
+    },
+    {
+      "id": "love_the_way_you_lie_handoffs",
+      "kind": "handoff",
+      "title": "The sung hook and rap enter with different accents",
+      "clips": [
+        {
+          "source": "love_the_way",
+          "start_seconds": 17,
+          "end_seconds": 35,
+          "role": "hook to verse",
+          "file": "clips/love_the_way_you_lie_handoffs_01.flac",
+          "cue_seconds": 24.5,
+          "cue_label": "Eminem enters before the full drums"
+        },
+        {
+          "source": "love_the_way",
+          "start_seconds": 61,
+          "end_seconds": 80,
+          "role": "verse to hook",
+          "file": "clips/love_the_way_you_lie_handoffs_02.flac",
+          "cue_seconds": 69.08,
+          "cue_label": "Rihanna takes the lead"
+        }
+      ],
+      "keep": "The first handoff preserves the outgoing melody and the incoming line in full. The second lands the hook against the verse’s ending.",
+      "change": "Eminem’s first words lead the large drum impact. Rihanna’s return follows a brief rhythmic release and quickly regains the full backing.",
+      "reaper": "Compare a clean vocal pickup over held harmony with a pickup accented by an early drum fill. Use the low-end contour to judge how long the release can last.",
+      "evidence": "Official recording, local word timestamps and low-band energy. Rihanna’s opening phrase ends around 23.44 seconds, Eminem starts about 24.50, and the large low-end impact arrives around 26–27 seconds.",
+      "links": []
+    },
+    {
+      "id": "said_n_done_soul_bed",
+      "kind": "sample composition",
+      "title": "A short soul sample supports a steady rap pocket",
+      "clips": [
+        {
+          "source": "touch_me_now",
+          "start_seconds": 0,
+          "end_seconds": 12,
+          "role": "Stephanie Mills source",
+          "file": "clips/said_n_done_soul_bed_01.flac"
+        },
+        {
+          "source": "said_n_done",
+          "start_seconds": 3,
+          "end_seconds": 31,
+          "role": "Metro Boomin and 21 Savage",
+          "file": "clips/said_n_done_soul_bed_02.flac",
+          "cue_seconds": 11.7,
+          "cue_label": "Bass pulse arrives under the sample"
+        }
+      ],
+      "keep": "The contour and timbre of the opening Stephanie Mills phrase.",
+      "change": "A short portion of the original supplies a repeating texture. The drums and bass establish a stable pocket underneath.",
+      "reaper": "Use the chord or piano motif as an audible continuity anchor. Let the drum or bass layer establish the bar pattern while the lead voice enters.",
+      "evidence": "The official recordings and local band-limited correlation identify the opening sample at approximately 1.04× speed. The repeating low-end envelope appears around 11.7 seconds in Said N Done.",
+      "links": []
+    },
+    {
+      "id": "dahi_sample_pocket",
+      "kind": "sample composition",
+      "title": "Drums and a soul loop support a hook-to-verse shift",
+      "clips": [
+        {
+          "source": "dahi_breakdown",
+          "start_seconds": 223,
+          "end_seconds": 254,
+          "role": "DJ Dahi explains the rhythm",
+          "file": "clips/dahi_sample_pocket_01.flac"
+        },
+        {
+          "source": "a_lot",
+          "start_seconds": 45,
+          "end_seconds": 69,
+          "role": "finished record",
+          "file": "clips/dahi_sample_pocket_02.flac",
+          "cue_seconds": 52.72,
+          "cue_label": "First verse begins under the soul loop"
+        }
+      ],
+      "keep": "The soul loop and the kick pattern across the shift from the refrain into the first verse.",
+      "change": "The voice switches from recurring call and response to a longer verse while the sampled loop continues.",
+      "reaper": "Compare the passage with the vocal soloed and then with the whole backing. Keep the kick and sampled phrase audible through the first verse consonant.",
+      "evidence": "DJ Dahi discusses the arrangement in his Genius breakdown, whose rhythm chapter starts at 3:43. Local word timing locates the verse entrance in the official music video.",
+      "links": []
+    },
+    {
+      "id": "birdsong_daft_kanye",
+      "kind": "sample composition",
+      "title": "One riff becomes a house loop and then a rap hook",
+      "clips": [
+        {
+          "source": "cola_bottle",
+          "start_seconds": 0,
+          "end_seconds": 25,
+          "role": "Edwin Birdsong source",
+          "file": "clips/birdsong_daft_kanye_01.flac"
+        },
+        {
+          "source": "harder_faster",
+          "start_seconds": 40,
+          "end_seconds": 67,
+          "role": "Daft Punk",
+          "file": "clips/birdsong_daft_kanye_02.flac",
+          "cue_seconds": 52.9,
+          "cue_label": "Vocoder phrase comes forward"
+        },
+        {
+          "source": "stronger",
+          "start_seconds": 0,
+          "end_seconds": 31,
+          "role": "Kanye West",
+          "file": "clips/birdsong_daft_kanye_03.flac",
+          "cue_seconds": 4.68,
+          "cue_label": "Kanye takes the lead"
+        }
+      ],
+      "keep": "The funky keyboard contour survives in Daft Punk’s record. Kanye retains the robotic phrase from Daft Punk.",
+      "change": "Each version gives a different element the foreground and supplies a new rhythmic frame around it.",
+      "reaper": "Decide whether the original voice or keyboard figure is the recognizable anchor. Keep it through the section change and arrange its gaps around the new lead.",
+      "evidence": "Daft Punk’s official credits include Edwin Birdsong. Local audio matching aligns the two opening riffs near 1.06× speed. Kanye’s official video supplies the result, and local word timing identifies his first entrance.",
+      "links": [
+        "https://www.daftpunk.com/"
+      ]
+    },
+    {
+      "id": "heads_will_roll_genre_chain",
+      "kind": "genre change",
+      "title": "A rock motif travels through house and jungle",
+      "clips": [
+        {
+          "source": "heads_rock",
+          "start_seconds": 16,
+          "end_seconds": 40,
+          "role": "Yeah Yeah Yeahs original",
+          "file": "clips/heads_will_roll_genre_chain_01.flac",
+          "cue_seconds": 29,
+          "cue_label": "Live low end comes forward"
+        },
+        {
+          "source": "heads_house",
+          "start_seconds": 5,
+          "end_seconds": 30,
+          "role": "A-Trak radio edit",
+          "file": "clips/heads_will_roll_genre_chain_02.flac",
+          "cue_seconds": 14,
+          "cue_label": "House kick arrives"
+        },
+        {
+          "source": "heads_jungle",
+          "start_seconds": 34,
+          "end_seconds": 61,
+          "role": "Nia Archives jungle edit",
+          "file": "clips/heads_will_roll_genre_chain_03.flac",
+          "cue_seconds": 46,
+          "cue_label": "Jungle drop"
+        },
+        {
+          "source": "heads_breakdown",
+          "start_seconds": 9,
+          "end_seconds": 58,
+          "role": "A-Trak explains the remix",
+          "file": "clips/heads_will_roll_genre_chain_04.flac",
+          "cue_seconds": 37.62,
+          "cue_label": "A-Trak plays the reshaped string chop"
+        }
+      ],
+      "keep": "The original strings and vocal give A-Trak material to reshape. Nia Archives carries the remix’s synth identity into a jungle arrangement.",
+      "change": "The live-band feel becomes a regular house kick, then fast broken drums and sub bass.",
+      "reaper": "Compare each excerpt from its thin buildup through the first few full bars. Keep the hook legible and choose the new groove before adding accents to the transition.",
+      "evidence": "Official releases and A-Trak’s own breakdown. Nia Archives describes starting from the A-Trak remix. Local bass envelopes locate the main low-end arrivals.",
+      "links": [
+        "https://www.udiscovermusic.com/news/nia-archives-off-wiv-ya-headz/"
+      ]
+    }
+  ]
+}

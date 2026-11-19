@@ -1,0 +1,18 @@
+{
+  "farebi": {
+    "release": "Farebi",
+    "artist": "Chaar Diwaari & Raftaar",
+    "url": "https://www.youtube.com/watch?v=9Jjz_AzC6IA",
+    "file": "farebi.wav",
+    "grid_bpm": 90,
+    "role": "Chaar Diwaari led chorus and separated arrangement"
+  },
+  "namastute": {
+    "release": "Namastute",
+    "artist": "Seedhe Maut",
+    "url": "https://www.youtube.com/watch?v=BAr-KBVnhfY",
+    "file": "namastute.wav",
+    "grid_bpm": 80,
+    "role": "Encore ABJ and Calm verses"
+  }
+}

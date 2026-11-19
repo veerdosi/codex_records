@@ -1,0 +1,100 @@
+{
+  "bpm": 138,
+  "duration": 160.47312925170067,
+  "events": [
+    {
+      "name": "chorus 1 / refrain",
+      "at": 6.793071739130426,
+      "stop": 19.263071739130424,
+      "source_bounds": [
+        308.64,
+        321.11
+      ],
+      "native_grid": 308.84,
+      "native_bpm": 138,
+      "target_bar": 4
+    },
+    {
+      "name": "chorus 1 / extension",
+      "at": 20.7061152173913,
+      "stop": 40.196115217391295,
+      "source_bounds": [
+        308.64,
+        328.13
+      ],
+      "native_grid": 308.84,
+      "native_bpm": 138,
+      "target_bar": 12
+    },
+    {
+      "name": "verse / build",
+      "at": 41.46611521739132,
+      "stop": 70.02611521739132,
+      "source_bounds": [
+        244.18,
+        272.74
+      ],
+      "native_grid": 246.2286956521739,
+      "native_bpm": 138,
+      "target_bar": 25
+    },
+    {
+      "name": "verse / flute response",
+      "at": 70.33698478260868,
+      "stop": 92.12698478260867,
+      "source_bounds": [
+        273.48,
+        295.27
+      ],
+      "native_grid": 272.31,
+      "native_bpm": 138,
+      "target_bar": 39.75
+    },
+    {
+      "name": "verse / drum break",
+      "at": 93.37263695652177,
+      "stop": 97.04263695652178,
+      "source_bounds": [
+        297.82,
+        301.49
+      ],
+      "native_grid": 296.6578260869565,
+      "native_bpm": 138,
+      "target_bar": 53
+    },
+    {
+      "name": "chorus 2 / refrain",
+      "at": 97.22785434782611,
+      "stop": 116.7178543478261,
+      "source_bounds": [
+        308.64,
+        328.13
+      ],
+      "native_grid": 308.84,
+      "native_bpm": 138,
+      "target_bar": 56
+    },
+    {
+      "name": "chorus 2 / extension",
+      "at": 118.09741956521742,
+      "stop": 139.30741956521743,
+      "source_bounds": [
+        308.64,
+        329.85
+      ],
+      "native_grid": 308.84,
+      "native_bpm": 138,
+      "target_bar": 68
+    },
+    {
+      "name": "outro / Only One",
+      "at": 143.29741956521738,
+      "stop": 156.86741956521738,
+      "source_bounds": [
+        14.3,
+        27.87
+      ],
+      "pitch_semitones": -1
+    }
+  ]
+}

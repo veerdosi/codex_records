@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.0,
+    "end": 11.238585811285413,
+    "source": null,
+    "name": "guitar intro",
+    "level": {
+      "vocal": -50.7,
+      "drums": -43.8,
+      "bass": -38.2,
+      "cleans": -26.6,
+      "overdrive": -120.0,
+      "lead": -120.0,
+      "backing": -26.3
+    },
+    "vocal_margin": []
+  },
+  {
+    "start": 11.238585811285413,
+    "end": 33.71575743385624,
+    "source": 0.408,
+    "name": "verse",
+    "level": {
+      "vocal": -23.0,
+      "drums": -31.8,
+      "bass": -30.5,
+      "cleans": -30.0,
+      "overdrive": -120.0,
+      "lead": -120.0,
+      "backing": -25.9
+    },
+    "vocal_margin": [
+      1.6,
+      6.5
+    ]
+  },
+  {
+    "start": 33.71575743385624,
+    "end": 50.57363615078436,
+    "source": 22.885171622570827,
+    "name": "verse rise",
+    "level": {
+      "vocal": -23.6,
+      "drums": -29.3,
+      "bass": -29.3,
+      "cleans": -30.2,
+      "overdrive": -120.0,
+      "lead": -120.0,
+      "backing": -24.9
+    },
+    "vocal_margin": [
+      1.5,
+      8.5
+    ]
+  },
+  {
+    "start": 50.57363615078436,
+    "end": 73.05080777335519,
+    "source": 39.74305033949894,
+    "name": "prechorus",
+    "level": {
+      "vocal": -24.2,
+      "drums": -29.2,
+      "bass": -27.6,
+      "cleans": -30.2,
+      "overdrive": -28.3,
+      "lead": -120.0,
+      "backing": -22.6
+    },
+    "vocal_margin": [
+      -1.0,
+      4.7
+    ]
+  },
+  {
+    "start": 73.05080777335519,
+    "end": 84.28939358464059,
+    "source": 62.22022196206977,
+    "name": "prechorus lift",
+    "level": {
+      "vocal": -22.8,
+      "drums": -28.3,
+      "bass": -26.0,
+      "cleans": -30.3,
+      "overdrive": -28.6,
+      "lead": -57.4,
+      "backing": -21.9
+    },
+    "vocal_margin": [
+      1.5,
+      5.8
+    ]
+  },
+  {
+    "start": 84.28939358464059,
+    "end": 94.12315616951533,
+    "source": 73.45880777335519,
+    "name": "chorus",
+    "level": {
+      "vocal": -24.0,
+      "drums": -24.5,
+      "bass": -22.8,
+      "cleans": -30.2,
+      "overdrive": -22.5,
+      "lead": -78.1,
+      "backing": -18.1
+    },
+    "vocal_margin": [
+      -3.3,
+      0.9
+    ]
+  },
+  {
+    "start": 94.12315616951533,
+    "end": 102.55209552797939,
+    "source": null,
+    "name": "guitar interlude",
+    "level": {
+      "vocal": -41.1,
+      "drums": -35.9,
+      "bass": -29.2,
+      "cleans": -31.5,
+      "overdrive": -45.0,
+      "lead": -36.5,
+      "backing": -26.1
+    },
+    "vocal_margin": [
+      5.6,
+      8.7
+    ]
+  },
+  {
+    "start": 102.55209552797939,
+    "end": 122.21962069772886,
+    "source": 136.6758529618356,
+    "name": "verse2",
+    "level": {
+      "vocal": -23.4,
+      "drums": -31.9,
+      "bass": -30.2,
+      "cleans": -31.1,
+      "overdrive": -120.0,
+      "lead": -36.3,
+      "backing": -25.9
+    },
+    "vocal_margin": [
+      -2.3,
+      7.0
+    ]
+  },
+  {
+    "start": 122.21962069772886,
+    "end": 139.07749941465698,
+    "source": 156.3433781315851,
+    "name": "lift",
+    "level": {
+      "vocal": -22.6,
+      "drums": -29.3,
+      "bass": -28.2,
+      "cleans": -30.5,
+      "overdrive": -28.4,
+      "lead": -120.0,
+      "backing": -22.9
+    },
+    "vocal_margin": [
+      1.6,
+      7.5
+    ]
+  },
+  {
+    "start": 139.07749941465698,
+    "end": 150.3160852259424,
+    "source": 173.2012568485132,
+    "name": "last prechorus",
+    "level": {
+      "vocal": -22.7,
+      "drums": -28.4,
+      "bass": -26.2,
+      "cleans": -30.4,
+      "overdrive": -28.6,
+      "lead": -57.1,
+      "backing": -22.2
+    },
+    "vocal_margin": [
+      1.2,
+      5.6
+    ]
+  },
+  {
+    "start": 150.3160852259424,
+    "end": 171.38843362210255,
+    "source": 184.43984265979861,
+    "name": "chorus2",
+    "level": {
+      "vocal": -23.5,
+      "drums": -24.6,
+      "bass": -23.1,
+      "cleans": -30.5,
+      "overdrive": -22.0,
+      "lead": -40.1,
+      "backing": -18.0
+    },
+    "vocal_margin": [
+      -2.9,
+      2.0
+    ]
+  },
+  {
+    "start": 171.38843362210255,
+    "end": 179.8173729805666,
+    "source": 205.51219105595877,
+    "name": "outro",
+    "level": {
+      "vocal": -120.0,
+      "drums": -42.2,
+      "bass": -30.6,
+      "cleans": -32.4,
+      "overdrive": -44.8,
+      "lead": -30.1,
+      "backing": -25.8
+    },
+    "vocal_margin": []
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "Chorus one": {
+    "time": [
+      22.069,
+      44.288
+    ],
+    "gain_db": 3.21,
+    "presence_ratio_db": 1.8,
+    "broad_ratio_db": -0.82
+  },
+  "21 Savage": {
+    "time": [
+      49.065,
+      82.759
+    ],
+    "gain_db": -1.9,
+    "presence_ratio_db": 1.75,
+    "broad_ratio_db": -2.74
+  },
+  "Kanye verse": {
+    "time": [
+      88.276,
+      110.465
+    ],
+    "gain_db": -7.5,
+    "presence_ratio_db": 1.85,
+    "broad_ratio_db": -3.0
+  },
+  "Final chorus": {
+    "time": [
+      121.379,
+      143.598
+    ],
+    "gain_db": 3.38,
+    "presence_ratio_db": 1.65,
+    "broad_ratio_db": -1.34
+  },
+  "Backing at 19s": [
+    -19.04,
+    -16.23,
+    -15.81,
+    -17.06,
+    -16.91
+  ],
+  "Backing at 51s": [
+    -16.45,
+    -19.28,
+    -17.88,
+    -15.54,
+    -14.74
+  ]
+}

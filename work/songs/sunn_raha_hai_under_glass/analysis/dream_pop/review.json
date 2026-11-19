@@ -1,0 +1,73 @@
+{
+  "vocal_null_max": 1.1920928955078125e-07,
+  "premaster_peak_dbfs": -2.74,
+  "sections": [
+    {
+      "section": "Intro",
+      "prior_mix_db": -26.89,
+      "revised_mix_db": -27.58,
+      "bass_drum_change_db": -1.41
+    },
+    {
+      "section": "Verse",
+      "prior_mix_db": -20.54,
+      "revised_mix_db": -20.82,
+      "bass_drum_change_db": -0.1,
+      "matched_voice_band_clearance_db": 2.5
+    },
+    {
+      "section": "Verse rise",
+      "prior_mix_db": -20.27,
+      "revised_mix_db": -20.92,
+      "bass_drum_change_db": -1.01,
+      "matched_voice_band_clearance_db": 3.78
+    },
+    {
+      "section": "Prechorus",
+      "prior_mix_db": -19.94,
+      "revised_mix_db": -20.67,
+      "bass_drum_change_db": -0.99,
+      "matched_voice_band_clearance_db": 3.81
+    },
+    {
+      "section": "First refrain",
+      "prior_mix_db": -16.87,
+      "revised_mix_db": -18.25,
+      "bass_drum_change_db": -0.99,
+      "matched_voice_band_clearance_db": 2.88
+    },
+    {
+      "section": "Interlude",
+      "prior_mix_db": -26.64,
+      "revised_mix_db": -27.03,
+      "bass_drum_change_db": 0.66
+    },
+    {
+      "section": "Verse 2",
+      "prior_mix_db": -20.66,
+      "revised_mix_db": -21.0,
+      "bass_drum_change_db": -0.1,
+      "matched_voice_band_clearance_db": 2.64
+    },
+    {
+      "section": "Lift",
+      "prior_mix_db": -19.23,
+      "revised_mix_db": -19.88,
+      "bass_drum_change_db": -1.05,
+      "matched_voice_band_clearance_db": 3.94
+    },
+    {
+      "section": "Last refrain",
+      "prior_mix_db": -16.43,
+      "revised_mix_db": -17.93,
+      "bass_drum_change_db": -1.09,
+      "matched_voice_band_clearance_db": 2.79
+    },
+    {
+      "section": "Outro",
+      "prior_mix_db": -24.04,
+      "revised_mix_db": -25.3,
+      "bass_drum_change_db": -0.95
+    }
+  ]
+}
