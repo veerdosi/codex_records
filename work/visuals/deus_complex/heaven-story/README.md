@@ -1,8 +1,8 @@
 # This must be heaven · Instagram Story
 
-A 59-second, 1080 × 1920 edit for DUES COMPLEX. The uninterrupted audio selection runs from 25.571428571 to 84.571428571 seconds in the approved master. It follows Kanye’s first verse into Kevin Parker’s returning chorus and ends before the next verse.
+A 59-second, 1080 × 1920 Story for DUES COMPLEX. It opens with a 5.5-second personal note, plays 48 seconds of the music film, and closes with a 5.5-second YouTube card. The main music selection runs from 36.571428571 to 84.571428571 seconds in the approved master. Quiet instrumental passages sit beneath the text cards.
 
-The stadium photo behind the album artwork supplies the image plates. Separate shots explore roof structure, the performer, dome texture, fractured exposures, contact prints, and an eclipse. Cuts land on the song’s two-bar boundaries at 105 BPM. The palette opens from blue-green to amber at the chorus return, 40.714 seconds into the video.
+The stadium photo behind the album artwork supplies the image plates. Separate shots explore roof structure, the performer, dome texture, fractured exposures, contact prints, and an eclipse. Cuts land on the song’s two-bar boundaries at 105 BPM. The palette opens from blue-green to amber at the chorus return. The closing card uses the thumbnail and channel name cropped from the user’s YouTube screenshot.
 
 ## Prepare and preview
 

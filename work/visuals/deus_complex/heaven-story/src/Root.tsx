@@ -1,9 +1,9 @@
 import {Composition} from 'remotion';
-import {HeavenStory} from './Story';
+import {StoryPromo} from './Promo';
 
 export const RemotionRoot = () => <Composition
   id="HeavenStory"
-  component={HeavenStory}
+  component={StoryPromo}
   durationInFrames={1770}
   fps={30}
   width={1080}
